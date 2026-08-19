@@ -1,69 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Citation"
-    },
-    {
-      "description": "Clip corresponds to preventing the policy ratio from moving too far from 1 for ensuring stable updates.KL penalty corresponds to penalizing the KL divergence between the learned policy and the reference policy for ensuring alignment.",
-      "items": [],
-      "title": "Sec2.7 Agentic RL: Algorithms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sec4.1 Task: Search & Research Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sec4.2 Task: Code Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sec4.3 Task: Mathematical Agent"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sec4.4 Task: GUI Agent"
-    },
-    {
-      "description": "TO BE ADDED",
-      "items": [],
-      "title": "Sec4.5 Task: RL in Vision Agents"
-    },
-    {
-      "description": "TO BE ADDED",
-      "items": [],
-      "title": "Sec4.6 Task: RL in Embodied Agents"
-    },
-    {
-      "description": "“Dynamic” denotes whether the multi-agent system is task-dynamic, i.e., processes different task queries with different configurations (agent count, topologies, reasoning depth, prompts, etc).“Train” denotes whether the method involves training the LLM backbone of agents.",
-      "items": [],
-      "title": "Sec4.7 Task: RL in Multi-Agent Systems"
-    },
-    {
-      "description": "TO BE ADDED",
-      "items": [],
-      "title": "Sec4.8. Task: Other Tasks"
-    },
-    {
-      "description": "The agent capabilities are denoted by:① Reasoning, ② Planning, ③ Tool Use, ④ Memory, ⑤ Collaboration, ⑥ Self-Improve.",
-      "items": [],
-      "title": "Sec5.1 Environments"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sec5.2 Frameworks"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-19T04:07:42.592Z",
+    "last_updated": "2026-08-19T12:06:33.207Z",
     "original_repository": "HHHHHejia/Awesome-AgenticLLM-RL-Papers",
+    "original_repository_id": 1046985950,
     "original_repository_sha": "9b577322e9f8314c3c21f15c18f3218eb3e3bd22",
     "enhanced_repository": "enhansome/enhansome-Awesome-AgenticLLM-RL-Papers",
     "enhanced_repository_description": null,
