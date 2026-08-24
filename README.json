@@ -1,7 +1,2486 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Clip corresponds to preventing the policy ratio from moving too far from 1 for ensuring stable updates.KL penalty corresponds to penalizing the KL divergence between the learned policy and the reference policy for ensuring alignment.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PF-PPO",
+          "description": "2024 Policy gradient Yes Yes Policy filtration Noisy reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 989039140,
+            "language": "Python",
+            "last_commit": "2026-01-30T08:42:30Z",
+            "owner": "DtYXs",
+            "repo": "verl",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VinePPO",
+          "description": "2024 Policy gradient Yes Yes Unbiased value estimates Reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 866341786,
+            "language": "Python",
+            "last_commit": "2025-05-25T19:07:03Z",
+            "owner": "McGill-NLP",
+            "repo": "VinePPO",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "β-DPO",
+          "description": "2024 Preference optimization No Adaptive Dynamic KL coefficient Human preference Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804242627,
+            "language": "Python",
+            "last_commit": "2024-10-23T07:38:15Z",
+            "owner": "junkangwu",
+            "repo": "beta-DPO",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimPO",
+          "description": "2024 Preference optimization No Scaled Use avg log-prob of a sequence as implicit reward Human preference Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 804026091,
+            "language": "Python",
+            "last_commit": "2025-02-16T03:55:07Z",
+            "owner": "princeton-nlp",
+            "repo": "SimPO",
+            "stars": 958
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KTO",
+          "description": "2024 Knowledge transfer optimization No Yes Teacher stabilization Teacher-student logit Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 726727989,
+            "language": "Python",
+            "last_commit": "2025-09-30T07:39:37Z",
+            "owner": "ContextualAI",
+            "repo": "HALOs",
+            "stars": 910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ORPO",
+          "description": "2024 Online regularized preference optimization No Yes Online stabilization Online feedback reward Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770365509,
+            "language": "Python",
+            "last_commit": "2024-05-31T06:39:39Z",
+            "owner": "xfactlab",
+            "repo": "orpo",
+            "stars": 479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step-DPO",
+          "description": "2024 Preference optimization No Yes Step-wise supervision Step-wise preference Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819228692,
+            "language": "Python",
+            "last_commit": "2025-01-19T17:10:23Z",
+            "owner": "JIA-Lab-research",
+            "repo": "Step-DPO",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAPO",
+          "description": "2025 Surrogate of GRPO's Yes Yes Decoupled clip + dynamic sampling Dynamic group-based reward Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 950036175,
+            "language": "Python",
+            "last_commit": "2025-05-11T09:09:41Z",
+            "owner": "BytedTsinghua-SIA",
+            "repo": "DAPO",
+            "stars": 1861
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LUFFY",
+          "description": "2025 Same as GRPO's Yes Yes Mixed-policy GRPO with off-policy reasoning guidance Group-based reward (on + off policy) Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969637328,
+            "language": "Python",
+            "last_commit": "2026-03-20T10:50:45Z",
+            "owner": "Simplified-Reasoning",
+            "repo": "LUFFY",
+            "stars": 464
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GMPO",
+          "description": "2025 Surrogate of GRPO's Yes Yes Geometric mean of token-level rewards Margin-based reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1019312405,
+            "language": "Python",
+            "last_commit": "2026-01-26T13:05:43Z",
+            "owner": "callsys",
+            "repo": "GMPO",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dr.GRPO",
+          "description": "2025 Unbiased GRPO objective Yes Yes Eliminate bias in optimization Group-based reward Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 951018704,
+            "language": "Python",
+            "last_commit": "2025-08-27T14:39:28Z",
+            "owner": "sail-sg",
+            "repo": "understand-r1-zero",
+            "stars": 1273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step-GRPO",
+          "description": "2025 Same as GRPO's Yes Yes Rule-based reasoning rewards Step-wise reward Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948922111,
+            "language": "Python",
+            "last_commit": "2026-06-02T01:57:21Z",
+            "owner": "jingyi0000",
+            "repo": "R1-VL",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GRESO",
+          "description": "2025 Same as GRPO's Yes Yes Pre-rollout filtering Reward Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992930689,
+            "language": "Python",
+            "last_commit": "2026-06-08T15:31:35Z",
+            "owner": "Infini-AI-Lab",
+            "repo": "GRESO",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarPO",
+          "description": "2025 Same as GRPO's Yes Yes Reasoning-guided actions for multi-turn interactions Group-based reward Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 922278962,
+            "language": "Python",
+            "last_commit": "2026-08-23T22:59:46Z",
+            "owner": "mll-lab-nu",
+            "repo": "RAGEN",
+            "stars": 2775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GHPO",
+          "description": "2025 Policy gradient Yes Yes Adaptive prompt refinement Reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1015164256,
+            "language": "Python",
+            "last_commit": "2025-07-21T03:52:01Z",
+            "owner": "hkgc-1",
+            "repo": "GHPO",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skywork R1V2",
+          "description": "2025 GRPO with hybrid reward signal Yes Yes Selective sample buffer Multimodal reward Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 948904124,
+            "language": "Python",
+            "last_commit": "2026-07-29T03:11:37Z",
+            "owner": "SkyworkAI",
+            "repo": "Skywork-R1V",
+            "stars": 3166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TreePo",
+          "description": "2025 Same as GRPO's Yes Yes Self-guided rollout, reduced compute burden Group-based reward Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1043731762,
+            "language": "Python",
+            "last_commit": "2026-03-30T05:56:34Z",
+            "owner": "multimodal-art-projection",
+            "repo": "TreePO",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDGE-GRPO",
+          "description": "2025 Same as GRPO's Yes Yes Entropy-driven advantage + error correction Group-based reward Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1018947767,
+            "language": "Python",
+            "last_commit": "2025-08-28T01:38:11Z",
+            "owner": "ZhangXJ199",
+            "repo": "EDGE-GRPO",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ARPO",
+          "description": "2025 Same as GRPO's Yes Yes Entropy-aware agentic rollout + step-wise credit assignment Step-wise reward/entropy signal Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1024219540,
+            "language": "Python",
+            "last_commit": "2026-08-20T07:12:37Z",
+            "owner": "RUC-NLPIR",
+            "repo": "ARPO",
+            "stars": 1109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DARS",
+          "description": "2025 Same as GRPO's Yes No Multi-stage rollout for hardest problems Group-based reward Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030506907,
+            "language": "Python",
+            "last_commit": "2026-02-04T10:03:56Z",
+            "owner": "yangzhch6",
+            "repo": "DARS",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CHORD",
+          "description": "2025 Weighted GRPO + SFT Yes Yes Auxiliary supervised loss Group-based reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 963030058,
+            "language": "Python",
+            "last_commit": "2026-08-13T03:03:40Z",
+            "owner": "agentscope-ai",
+            "repo": "Trinity-RFT",
+            "stars": 692
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PAPO",
+          "description": "2025 Surrogate of GRPO's Yes Yes Implicit Perception Loss Group-based reward Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014396860,
+            "language": "Python",
+            "last_commit": "2026-02-04T01:43:46Z",
+            "owner": "MikeWangWZHL",
+            "repo": "PAPO",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pass@k Training",
+          "description": "2025 Same as GRPO's Yes Yes Pass@k metric as reward Group-based reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1023370950,
+            "language": "Python",
+            "last_commit": "2025-08-15T01:24:58Z",
+            "owner": "RUCAIBox",
+            "repo": "Passk_Training",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KTAE",
+          "description": "2025 Same as GRPO's Yes Yes Token-level advantage estimation Group-based reward Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1081717967,
+            "language": "Python",
+            "last_commit": "2025-10-27T08:43:43Z",
+            "owner": "ZNLP",
+            "repo": "KTAE",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Sec2.7 Agentic RL: Algorithms"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeepRetrieval",
+          "description": "External Qwen2.5-3B-Instruct, Llama-3.2-3B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 935832790,
+            "language": "Python",
+            "last_commit": "2025-10-12T05:35:32Z",
+            "owner": "pat-jj",
+            "repo": "DeepRetrieval",
+            "stars": 717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search-R1",
+          "description": "External Qwen2.5-3B/7B-Base/Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 940662305,
+            "language": "Python",
+            "last_commit": "2025-11-13T21:56:33Z",
+            "owner": "PeterGriffinJin",
+            "repo": "Search-R1",
+            "stars": 5325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R1-Searcher",
+          "description": "External Qwen2.5-7B, Llama3.1-8B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 939487687,
+            "language": "Python",
+            "last_commit": "2025-08-05T08:16:17Z",
+            "owner": "RUCAIBox",
+            "repo": "R1-Searcher",
+            "stars": 723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R1-Searcher++",
+          "description": "External Qwen2.5-7B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988457489,
+            "language": "Python",
+            "last_commit": "2025-05-25T16:33:57Z",
+            "owner": "RUCAIBox",
+            "repo": "R1-Searcher-plus",
+            "stars": 82
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReSearch",
+          "description": "External Qwen2.5-7B/32B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942031817,
+            "language": "Python",
+            "last_commit": "2025-05-16T10:31:58Z",
+            "owner": "Agent-RL",
+            "repo": "ReCall",
+            "stars": 1431
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StepSearch",
+          "description": "External Qwen2.5-3B/7B-Base/Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988747282,
+            "language": "Python",
+            "last_commit": "2025-09-13T13:07:22Z",
+            "owner": "Zillwang",
+            "repo": "StepSearch",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tool-Star",
+          "description": "External Qwen2.5-3B-Instruct, Llama3.2-3B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981604316,
+            "language": "Python",
+            "last_commit": "2026-04-03T06:54:03Z",
+            "owner": "RUC-NLPIR",
+            "repo": "Tool-Star",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebDancer",
+          "description": "External Qwen2.5-7B/32B, QWQ-32B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914316754,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebThinker",
+          "description": "External QwQ-32B, DeepSeek-R1-Distilled-Qwen-7B/14B/32B, Qwen2.5-32B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956332356,
+            "language": "Python",
+            "last_commit": "2025-12-08T03:40:49Z",
+            "owner": "RUC-NLPIR",
+            "repo": "WebThinker",
+            "stars": 1467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebSailor",
+          "description": "External Qwen2.5-3B/7B/32B/72B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914316754,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoTIR",
+          "description": "External Qwen2.5-7B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1028273705,
+            "language": "Python",
+            "last_commit": "2025-09-04T05:02:44Z",
+            "owner": "weiyifan1023",
+            "repo": "AutoTIR",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebWatcher",
+          "description": "External Qwen2.5-VL-7B/32B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914316754,
+            "language": "Python",
+            "last_commit": "2026-02-27T13:12:11Z",
+            "owner": "Alibaba-NLP",
+            "repo": "DeepResearch",
+            "stars": 19870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASearcher",
+          "description": "External Qwen2.5-7B/14B, QwQ-32B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1032362388,
+            "language": "Python",
+            "last_commit": "2025-11-26T06:28:16Z",
+            "owner": "inclusionAI",
+            "repo": "ASearcher",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroSearch",
+          "description": "Internal Qwen2.5-3B/7B-Base/Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979518567,
+            "language": "Python",
+            "last_commit": "2025-08-16T17:34:58Z",
+            "owner": "Alibaba-NLP",
+            "repo": "ZeroSearch",
+            "stars": 1306
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSRL",
+          "description": "Internal Qwen2.5-1.5B/3B/7B/14B/32B/72B-Instruct, Llama-3.2-1B/8B-Instruct, Llama-3.1-8B/70B-Instruct, Qwen3-0.6B/1.7B/4B/8B/14B/32B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1035831739,
+            "language": "Python",
+            "last_commit": "2025-08-20T10:25:29Z",
+            "owner": "TsinghuaC3I",
+            "repo": "SSRL",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Search Self-play",
+          "description": "External Qwen2.5-7B/14B/32B, LLaMA-3.1-8B, Qwen3-8B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1080433116,
+            "language": "Python",
+            "last_commit": "2026-07-23T15:45:52Z",
+            "owner": "Alibaba-Quark",
+            "repo": "SSP",
+            "stars": 106
+          }
+        }
+      ],
+      "title": "Sec4.1 Task: Search & Research Agent"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AceCoder",
+          "description": "Outcome Qwen2.5-Coder-7B-Base/Instruct, Qwen2.5-7B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926233491,
+            "language": "Python",
+            "last_commit": "2025-04-09T06:00:20Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "AceCoder",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepCoder-14B",
+          "description": "Outcome Deepseek-R1-Distilled-Qwen-14B Blog Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1027586228,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-17T00:58:52Z",
+            "owner": "agentica-project",
+            "repo": "rllm",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLTF",
+          "description": "Outcome CodeGen-NL 2.7B, CodeT5 Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 660450114,
+            "language": "Python",
+            "last_commit": "2024-10-05T09:52:35Z",
+            "owner": "Zyq-scut",
+            "repo": "RLTF",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CURE",
+          "description": "Outcome Qwen2.5-7B/14B-Instruct, Qwen3-4B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 995766630,
+            "language": "Python",
+            "last_commit": "2025-09-19T04:38:37Z",
+            "owner": "Gen-Verse",
+            "repo": "CURE",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Absolute Zero",
+          "description": "Outcome Qwen2.5-7B/14B, Qwen2.5-Coder-3B/7B/14B, Llama-3.1-8B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 976385189,
+            "language": "Python",
+            "last_commit": "2025-08-24T00:13:19Z",
+            "owner": "LeapLabTHU",
+            "repo": "Absolute-Zero-Reasoner",
+            "stars": 1893
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSRL",
+          "description": "Outcome Qwen2.5-VL-7B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1040563127,
+            "language": null,
+            "last_commit": "2026-01-27T06:21:07Z",
+            "owner": "DocTron-hub",
+            "repo": "MSRL",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StepCoder",
+          "description": "Process DeepSeek-Coder-Instruct-6.7B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 753058445,
+            "language": null,
+            "last_commit": "2024-08-31T14:40:16Z",
+            "owner": "Ablustrund",
+            "repo": "APPS_Plus",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeBoost",
+          "description": "Process Qwen2.5-Coder-7B-Instruct, Llama-3.1-8B-Instruct, Seed-Coder-8B-Instruct, Yi-Coder-9B-Chat Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1033631906,
+            "language": "Python",
+            "last_commit": "2025-08-08T03:32:31Z",
+            "owner": "sijieaaa",
+            "repo": "CodeBoost",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "o1-Coder",
+          "description": "Process DeepSeek-1.3B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 895630967,
+            "language": "Python",
+            "last_commit": "2024-12-11T03:14:04Z",
+            "owner": "ADaM-BJTU",
+            "repo": "O1-CODER",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "μCode",
+          "description": "Outcome Llama-3.2-1B/8B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 932304030,
+            "language": "Python",
+            "last_commit": "2025-10-02T00:55:00Z",
+            "owner": "portal-cornell",
+            "repo": "muCode",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R1-Code-Interpreter",
+          "description": "Outcome Qwen2.5-7B/14B-Instruct-1M, Qwen2.5-3B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959981837,
+            "language": "Python",
+            "last_commit": "2026-02-09T18:48:34Z",
+            "owner": "yongchao98",
+            "repo": "R1-Code-Interpreter",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTRL",
+          "description": "Process Qwen2.5-Coder-7B/14B/32B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 925914166,
+            "language": "Python",
+            "last_commit": "2025-05-06T01:37:42Z",
+            "owner": "HKUNLP",
+            "repo": "critic-rl",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Policy Filtration for RLHF",
+          "description": "Process DeepSeek-Coder-6.7B, Qwen1.5-7B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 854947741,
+            "language": "Python",
+            "last_commit": "2024-09-14T02:04:31Z",
+            "owner": "swtheing",
+            "repo": "PF-PPO-RLHF",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSWE",
+          "description": "Outcome Qwen3-32B Blog Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1027586228,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-09-17T00:58:52Z",
+            "owner": "agentica-project",
+            "repo": "rllm",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-RL",
+          "description": "Outcome Llama-3.3-70B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937708273,
+            "language": "Python",
+            "last_commit": "2025-03-16T21:31:36Z",
+            "owner": "facebookresearch",
+            "repo": "swe-rl",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satori-SWE",
+          "description": "Outcome Qwen-2.5-Math-7B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926887807,
+            "language": "Python",
+            "last_commit": "2025-06-03T05:25:35Z",
+            "owner": "satori-reasoning",
+            "repo": "Satori",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLCoder",
+          "description": "Outcome CodeLlama7B, StartCoder-7B, StarCoder2-7B, DeepSeekCoder-1B/7B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 830801889,
+            "language": "Python",
+            "last_commit": "2026-06-15T07:05:06Z",
+            "owner": "DeepSoftwareAnalytics",
+            "repo": "RLCoder",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Qwen3-Coder",
+          "description": "Outcome - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 752925682,
+            "language": "Python",
+            "last_commit": "2026-01-09T03:05:47Z",
+            "owner": "QwenLM",
+            "repo": "Qwen3",
+            "stars": 27553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML-Agent",
+          "description": "Outcome Qwen2.5-7B-Base/Instruct, DeepSeek-R1-Distill-Qwen-7B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 993012542,
+            "language": "Python",
+            "last_commit": "2025-06-21T18:17:12Z",
+            "owner": "MASWorks",
+            "repo": "ML-Agent",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepAnalyze",
+          "description": "Outcome DeepSeek-R1-Distill-Qwen3-8B Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1074218324,
+            "language": "Python",
+            "last_commit": "2026-07-01T03:12:26Z",
+            "owner": "ruc-datalab",
+            "repo": "DeepAnalyze",
+            "stars": 4558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWEET-RL",
+          "description": "Process Llama-3.1-8B/70B-Instruct Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 950247407,
+            "language": "Python",
+            "last_commit": "2025-05-05T18:35:45Z",
+            "owner": "facebookresearch",
+            "repo": "sweet_rl",
+            "stars": 271
+          }
+        }
+      ],
+      "title": "Sec4.2 Task: Code Agent"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ToRL",
+          "description": "Outcome Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 955887989,
+            "language": "Python",
+            "last_commit": "2025-05-24T12:14:33Z",
+            "owner": "GAIR-NLP",
+            "repo": "ToRL",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroTIR",
+          "description": "Outcome Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979840085,
+            "language": "Python",
+            "last_commit": "2025-08-16T08:41:05Z",
+            "owner": "yyht",
+            "repo": "openrlhf_async_pipline",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TTRL",
+          "description": "Outcome Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 971091060,
+            "language": "Python",
+            "last_commit": "2026-04-15T02:47:09Z",
+            "owner": "PRIME-RL",
+            "repo": "TTRL",
+            "stars": 1115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RENT",
+          "description": "Outcome Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992054195,
+            "language": "Python",
+            "last_commit": "2025-10-31T20:48:19Z",
+            "owner": "satrams",
+            "repo": "rent-rl",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Satori",
+          "description": "Outcome Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926887807,
+            "language": "Python",
+            "last_commit": "2025-06-03T05:25:35Z",
+            "owner": "satori-reasoning",
+            "repo": "Satori",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "1-shot RLVR",
+          "description": "Outcome Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 975543937,
+            "language": "Python",
+            "last_commit": "2026-03-11T21:33:25Z",
+            "owner": "ypwang61",
+            "repo": "One-Shot-RLVR",
+            "stars": 445
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rStar2-Agent",
+          "description": "Outcome Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 848189443,
+            "language": "Python",
+            "last_commit": "2025-09-12T08:26:02Z",
+            "owner": "microsoft",
+            "repo": "rStar",
+            "stars": 1425
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tool-Star",
+          "description": "Outcome Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 981604316,
+            "language": "Python",
+            "last_commit": "2026-04-03T06:54:03Z",
+            "owner": "RUC-NLPIR",
+            "repo": "Tool-Star",
+            "stars": 409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallel-R1",
+          "description": "Outcome Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1052923896,
+            "language": "Python",
+            "last_commit": "2026-02-04T03:56:40Z",
+            "owner": "zhengkid",
+            "repo": "Parallel-R1",
+            "stars": 261
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoTIR",
+          "description": "Process Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1028273705,
+            "language": "Python",
+            "last_commit": "2025-09-04T05:02:44Z",
+            "owner": "weiyifan1023",
+            "repo": "AutoTIR",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-Prover-v1.5",
+          "description": "Outcome Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 843001887,
+            "language": "Python",
+            "last_commit": "2024-08-16T03:33:41Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-Prover-V1.5",
+            "stars": 584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leanabell-Prover",
+          "description": "Outcome Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 962423141,
+            "language": null,
+            "last_commit": "2025-04-17T14:36:16Z",
+            "owner": "Leanabell-LM",
+            "repo": "Leanabell-Prover",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kimina-Prover (Preview)",
+          "description": "Outcome Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 966106925,
+            "language": "Python",
+            "last_commit": "2025-07-10T13:04:40Z",
+            "owner": "MoonshotAI",
+            "repo": "Kimina-Prover-Preview",
+            "stars": 375
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Seed-Prover",
+          "description": "Outcome Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1020653154,
+            "language": "Lean",
+            "last_commit": "2026-02-13T15:03:35Z",
+            "owner": "ByteDance-Seed",
+            "repo": "Seed-Prover",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepSeek-Prover-v2",
+          "description": "Process Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 790044051,
+            "language": null,
+            "last_commit": "2024-09-25T10:23:55Z",
+            "owner": "deepseek-ai",
+            "repo": "DeepSeek-V2",
+            "stars": 5035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Leanabell-Prover-v2",
+          "description": "Process Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1017924127,
+            "language": null,
+            "last_commit": "2025-07-29T11:39:19Z",
+            "owner": "Leanabell-LM",
+            "repo": "Leanabell-Prover-V2",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InternLM2.5-StepProver",
+          "description": "Hybrid Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 746609632,
+            "language": "Python",
+            "last_commit": "2024-10-22T16:18:00Z",
+            "owner": "InternLM",
+            "repo": "InternLM-Math",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lean-STaR",
+          "description": "Hybrid Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 781689591,
+            "language": "Python",
+            "last_commit": "2024-09-19T18:04:48Z",
+            "owner": "Lagooon",
+            "repo": "LeanSTaR",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "STP",
+          "description": "Hybrid Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 930624012,
+            "language": "Python",
+            "last_commit": "2025-03-28T19:32:48Z",
+            "owner": "kfdong",
+            "repo": "STP",
+            "stars": 122
+          }
+        }
+      ],
+      "title": "Sec4.3 Task: Mathematical Agent"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MM-Navigator",
+          "description": "Vanilla VLM - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718268466,
+            "language": "Python",
+            "last_commit": "2024-07-17T14:48:25Z",
+            "owner": "zzxslp",
+            "repo": "MM-Navigator",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SeeAct",
+          "description": "Vanilla VLM - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 734457830,
+            "language": "Python",
+            "last_commit": "2025-02-03T02:09:18Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "SeeAct",
+            "stars": 850
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfiGUIAgent",
+          "description": "SFT - Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 913695825,
+            "language": null,
+            "last_commit": "2025-05-23T08:29:58Z",
+            "owner": "InfiXAI",
+            "repo": "InfiGUIAgent",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI-AGILE",
+          "description": "SFT - Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030730839,
+            "language": "Python",
+            "last_commit": "2026-04-08T15:49:42Z",
+            "owner": "KDEGroup",
+            "repo": "UI-AGILE",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TongUI",
+          "description": "SFT - Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 945825260,
+            "language": "HTML",
+            "last_commit": "2025-12-01T07:43:39Z",
+            "owner": "TongUI-agent",
+            "repo": "TongUI-agent",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GUI-R1",
+          "description": "RL Static Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968501809,
+            "language": "Python",
+            "last_commit": "2025-05-05T14:44:21Z",
+            "owner": "ritzz-ai",
+            "repo": "GUI-R1",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI-R1",
+          "description": "RL Static Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956382959,
+            "language": "Python",
+            "last_commit": "2025-11-24T08:52:12Z",
+            "owner": "lll6gg",
+            "repo": "UI-R1",
+            "stars": 160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InFiGUI-R1",
+          "description": "RL Static Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 969005205,
+            "language": "Python",
+            "last_commit": "2025-12-04T13:36:09Z",
+            "owner": "InfiXAI",
+            "repo": "InfiGUI-R1",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentCPM",
+          "description": "RL Static Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 982552795,
+            "language": "Python",
+            "last_commit": "2026-01-11T08:24:15Z",
+            "owner": "OpenBMB",
+            "repo": "AgentCPM-GUI",
+            "stars": 1407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UI-TARS",
+          "description": "RL Interactive Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 918932479,
+            "language": "Python",
+            "last_commit": "2026-01-27T04:57:26Z",
+            "owner": "bytedance",
+            "repo": "UI-TARS",
+            "stars": 11376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DiGiRL",
+          "description": "RL Interactive Paper Code Model Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 817660183,
+            "language": "Python",
+            "last_commit": "2025-02-22T06:07:42Z",
+            "owner": "DigiRL-agent",
+            "repo": "digirl",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZeroGUI",
+          "description": "RL Interactive Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 992342929,
+            "language": "Python",
+            "last_commit": "2025-07-17T16:39:40Z",
+            "owner": "OpenGVLab",
+            "repo": "ZeroGUI",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "Sec4.4 Task: GUI Agent"
+    },
+    {
+      "description": "“Dynamic” denotes whether the multi-agent system is task-dynamic, i.e., processes different task queries with different configurations (agent count, topologies, reasoning depth, prompts, etc).“Train” denotes whether the method involves training the LLM backbone of agents.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CAMEL",
+          "description": "✗ ✗ - Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 615510678,
+            "language": "Python",
+            "last_commit": "2026-08-21T11:36:45Z",
+            "owner": "camel-ai",
+            "repo": "camel",
+            "stars": 17631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MetaGPT",
+          "description": "✗ ✗ - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 660551251,
+            "language": "Python",
+            "last_commit": "2026-01-21T10:12:33Z",
+            "owner": "FoundationAgents",
+            "repo": "MetaGPT",
+            "stars": 69996
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAD",
+          "description": "✗ ✗ - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 643952838,
+            "language": "Python",
+            "last_commit": "2025-12-16T06:47:28Z",
+            "owner": "Skytliang",
+            "repo": "Multi-Agents-Debate",
+            "stars": 608
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MoA",
+          "description": "✗ ✗ - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810431023,
+            "language": "Python",
+            "last_commit": "2025-01-07T03:21:19Z",
+            "owner": "togethercomputer",
+            "repo": "MoA",
+            "stars": 2968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AFlow",
+          "description": "✗ ✗ - Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 947108760,
+            "language": "Python",
+            "last_commit": "2025-12-25T06:46:56Z",
+            "owner": "FoundationAgents",
+            "repo": "AFlow",
+            "stars": 580
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GPTSwarm",
+          "description": "✗ ✗ policy gradient Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 763733771,
+            "language": "Python",
+            "last_commit": "2026-02-05T10:39:09Z",
+            "owner": "metauto-ai",
+            "repo": "GPTSwarm",
+            "stars": 1038
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaAS",
+          "description": "✓ ✗ policy gradient Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 927859521,
+            "language": "Python",
+            "last_commit": "2025-11-13T02:37:29Z",
+            "owner": "bingreeky",
+            "repo": "MaAS",
+            "stars": 282
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "G-Designer",
+          "description": "✓ ✗ policy gradient Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 868449960,
+            "language": "Python",
+            "last_commit": "2024-12-05T07:17:28Z",
+            "owner": "yanweiyue",
+            "repo": "GDesigner",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARFT",
+          "description": "✗ ✓ MARFT Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 965034411,
+            "language": "Python",
+            "last_commit": "2026-05-14T06:21:47Z",
+            "owner": "jwliao-ai",
+            "repo": "MARFT",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAPoRL",
+          "description": "✓ ✓ PPO Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 991541627,
+            "language": "Python",
+            "last_commit": "2025-09-06T14:58:58Z",
+            "owner": "chanwoo-park-official",
+            "repo": "MAPoRL",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlowReasoner",
+          "description": "✓ ✓ GRPO Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970124081,
+            "language": "Python",
+            "last_commit": "2025-05-06T03:09:37Z",
+            "owner": "sail-sg",
+            "repo": "FlowReasoner",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C3",
+          "description": "✗ ✓ PPO / MAPPO / MAGRPO Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1174275135,
+            "language": "Python",
+            "last_commit": "2026-03-10T08:03:05Z",
+            "owner": "EIT-EAST-Lab",
+            "repo": "C3",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CURE",
+          "description": "✗ ✓ rule-based RL Paper Code Model",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 995766630,
+            "language": "Python",
+            "last_commit": "2025-09-19T04:38:37Z",
+            "owner": "Gen-Verse",
+            "repo": "CURE",
+            "stars": 166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OWL",
+          "description": "✓ ✓ DPO Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 942114501,
+            "language": "Python",
+            "last_commit": "2026-08-14T17:34:50Z",
+            "owner": "camel-ai",
+            "repo": "owl",
+            "stars": 20095
+          }
+        }
+      ],
+      "title": "Sec4.7 Task: RL in Multi-Agent Systems"
+    },
+    {
+      "description": "The agent capabilities are denoted by:① Reasoning, ② Planning, ③ Tool Use, ④ Memory, ⑤ Collaboration, ⑥ Self-Improve.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "LMRL-Gym",
+          "description": "①, ④ Interaction Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 721381957,
+            "language": "Python",
+            "last_commit": "2024-07-02T03:27:11Z",
+            "owner": "abdulhaim",
+            "repo": "LMRL-Gym",
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALFWorld",
+          "description": "②, ① Embodied, Text Games Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303795676,
+            "language": "Python",
+            "last_commit": "2026-02-08T15:40:09Z",
+            "owner": "alfworld",
+            "repo": "alfworld",
+            "stars": 841
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextWorld",
+          "description": "②, ① Text Games Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138774676,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-30T19:15:32Z",
+            "owner": "microsoft",
+            "repo": "TextWorld",
+            "stars": 1441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ScienceWorld",
+          "description": "①, ② Embodied, Science Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466027448,
+            "language": "Scala",
+            "last_commit": "2026-08-20T00:59:45Z",
+            "owner": "allenai",
+            "repo": "ScienceWorld",
+            "stars": 382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentGym",
+          "description": "①, ④ Text Games Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 806444030,
+            "language": "Python",
+            "last_commit": "2026-05-30T14:12:49Z",
+            "owner": "WooooDyy",
+            "repo": "AgentGym",
+            "stars": 833
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agentbench",
+          "description": "① General Text, Visual Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671759870,
+            "language": "Python",
+            "last_commit": "2026-02-08T17:01:05Z",
+            "owner": "THUDM",
+            "repo": "AgentBench",
+            "stars": 3687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InternBootcamp",
+          "description": "① General, Coding, Logic Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979788576,
+            "language": "Python",
+            "last_commit": "2026-08-12T13:13:22Z",
+            "owner": "InternLM",
+            "repo": "InternBootcamp",
+            "stars": 350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LoCoMo",
+          "description": "④ Interaction Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 762416453,
+            "language": "Python",
+            "last_commit": "2024-08-13T03:21:32Z",
+            "owner": "snap-research",
+            "repo": "locomo",
+            "stars": 1121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemoryAgentBench",
+          "description": "④ Interaction Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1009976354,
+            "language": "Python",
+            "last_commit": "2026-08-20T13:13:01Z",
+            "owner": "HUST-AI-HYZ",
+            "repo": "MemoryAgentBench",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebShop",
+          "description": "②, ③ Web Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 514715868,
+            "language": "Python",
+            "last_commit": "2024-09-06T04:00:38Z",
+            "owner": "princeton-nlp",
+            "repo": "WebShop",
+            "stars": 586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mind2Web",
+          "description": "②, ③ Web Text, Visual Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 998556506,
+            "language": "Python",
+            "last_commit": "2026-05-17T20:56:34Z",
+            "owner": "OSU-NLP-Group",
+            "repo": "Mind2Web-2",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebArena",
+          "description": "②, ③ Web Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 670111980,
+            "language": "Python",
+            "last_commit": "2025-11-26T21:16:00Z",
+            "owner": "web-arena-x",
+            "repo": "webarena",
+            "stars": 1586
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ClawBench",
+          "description": "②, ③ Web Text, Visual Paper Code Website HF Dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1206519531,
+            "language": "Python",
+            "last_commit": "2026-08-22T20:48:02Z",
+            "owner": "TIGER-AI-Lab",
+            "repo": "ClawBench",
+            "stars": 581
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VisualwebArena",
+          "description": "①, ②, ③ Web Text, Visual Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 747496066,
+            "language": "Python",
+            "last_commit": "2024-11-09T00:47:00Z",
+            "owner": "web-arena-x",
+            "repo": "visualwebarena",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppWorld",
+          "description": "②, ③ App Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 819144961,
+            "language": "Python",
+            "last_commit": "2026-02-17T22:41:42Z",
+            "owner": "StonyBrookNLP",
+            "repo": "appworld",
+            "stars": 490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidWorld",
+          "description": "②, ③ GUI, App Text, Visual Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 800171422,
+            "language": "Python",
+            "last_commit": "2026-07-16T20:18:37Z",
+            "owner": "google-research",
+            "repo": "android_world",
+            "stars": 855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OSWorld",
+          "description": "②, ③ GUI, OS Text, Visual Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 705433049,
+            "language": "Python",
+            "last_commit": "2026-08-21T09:11:07Z",
+            "owner": "xlang-ai",
+            "repo": "OSWorld",
+            "stars": 3102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Debug-Gym",
+          "description": "①, ③ SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 883186358,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:57:43Z",
+            "owner": "microsoft",
+            "repo": "debug-gym",
+            "stars": 303
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLE-Dojo",
+          "description": "②, ① MLE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 979658733,
+            "language": "Python",
+            "last_commit": "2025-10-30T00:30:27Z",
+            "owner": "MLE-Dojo",
+            "repo": "MLE-Dojo",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "τ-bench",
+          "description": "①, ③ SWE Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 999222244,
+            "language": "Python",
+            "last_commit": "2026-08-18T17:07:54Z",
+            "owner": "sierra-research",
+            "repo": "tau2-bench",
+            "stars": 1862
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TheAgentCompany",
+          "description": "②, ③, ⑤ SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 770272502,
+            "language": "Python",
+            "last_commit": "2025-11-17T20:31:16Z",
+            "owner": "TheAgentCompany",
+            "repo": "TheAgentCompany",
+            "stars": 769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MedAgentGym",
+          "description": "① Science Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 994565152,
+            "language": "Python",
+            "last_commit": "2026-04-12T05:38:05Z",
+            "owner": "wshi83",
+            "repo": "MedAgentGym",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "R2E-Gym",
+          "description": "①, ② SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 961591619,
+            "language": "Python",
+            "last_commit": "2025-07-13T04:53:01Z",
+            "owner": "R2E-Gym",
+            "repo": "R2E-Gym",
+            "stars": 325
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HumanEval",
+          "description": "① Coding Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383601290,
+            "language": "Python",
+            "last_commit": "2025-01-17T18:22:17Z",
+            "owner": "openai",
+            "repo": "human-eval",
+            "stars": 3351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MBPP",
+          "description": "① Coding Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151619717,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-21T19:58:51Z",
+            "owner": "google-research",
+            "repo": "google-research",
+            "stars": 38611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BigCodeBench",
+          "description": "① Coding Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 793526430,
+            "language": "Python",
+            "last_commit": "2026-01-03T07:22:42Z",
+            "owner": "bigcode-project",
+            "repo": "bigcodebench",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiveCodeBench",
+          "description": "① Coding Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771234452,
+            "language": "Python",
+            "last_commit": "2025-07-16T00:58:38Z",
+            "owner": "LiveCodeBench",
+            "repo": "LiveCodeBench",
+            "stars": 934
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SWE-bench",
+          "description": "①, ③ SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 700117650,
+            "language": "Python",
+            "last_commit": "2026-08-18T23:53:40Z",
+            "owner": "SWE-bench",
+            "repo": "SWE-bench",
+            "stars": 5698
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevBench",
+          "description": "②, ① SWE Text Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771282746,
+            "language": "Python",
+            "last_commit": "2024-05-30T13:10:52Z",
+            "owner": "open-compass",
+            "repo": "DevEval",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProjectEval",
+          "description": "②, ① SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 810102445,
+            "language": "Python",
+            "last_commit": "2026-07-03T08:11:33Z",
+            "owner": "RyanLoil",
+            "repo": "ProjectEval",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DA-Code",
+          "description": "①, ③ Data Science, SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 807865276,
+            "language": "Python",
+            "last_commit": "2026-01-12T04:43:10Z",
+            "owner": "yiyihum",
+            "repo": "da-code",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColBench",
+          "description": "②, ①, ③ SWE, Web Dev Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 950247407,
+            "language": "Python",
+            "last_commit": "2025-05-05T18:35:45Z",
+            "owner": "facebookresearch",
+            "repo": "sweet_rl",
+            "stars": 271
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoCode-bench",
+          "description": "②, ① SWE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1025348753,
+            "language": "Python",
+            "last_commit": "2026-08-01T06:08:40Z",
+            "owner": "Doc2Feat-bench",
+            "repo": "Doc2Feat-bench",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLE-Bench",
+          "description": "②, ①, ③ MLE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 869660918,
+            "language": "Python",
+            "last_commit": "2026-04-24T17:33:44Z",
+            "owner": "openai",
+            "repo": "mle-bench",
+            "stars": 1715
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PaperBench",
+          "description": "②, ①, ③ MLE Text Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 956639757,
+            "language": "Python",
+            "last_commit": "2026-04-21T20:53:31Z",
+            "owner": "openai",
+            "repo": "frontier-evals",
+            "stars": 1288
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Craftax",
+          "description": "②, ④ Game Visual Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 751798282,
+            "language": "Python",
+            "last_commit": "2026-06-20T14:38:40Z",
+            "owner": "MichaelTMatthews",
+            "repo": "Craftax",
+            "stars": 440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ELLM (Crafter variant)",
+          "description": "②, ① Game Visual Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 675820833,
+            "language": "Python",
+            "last_commit": "2023-08-21T07:32:44Z",
+            "owner": "yuqingd",
+            "repo": "ellm",
+            "stars": 91
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SMAC / SMAC-Exp",
+          "description": "⑤, ② Game Visual Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164697388,
+            "language": "Python",
+            "last_commit": "2024-02-18T19:49:08Z",
+            "owner": "oxwhirl",
+            "repo": "smac",
+            "stars": 1365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Factorio",
+          "description": "②, ① Game Visual Paper Code Website",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378407059,
+            "language": "Python",
+            "last_commit": "2026-06-11T22:52:19Z",
+            "owner": "JackHopkins",
+            "repo": "factorio-learning-environment",
+            "stars": 1153
+          }
+        }
+      ],
+      "title": "Sec5.1 Environments"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Verifiers",
+          "description": "Agent RL / LLM RL Verifiable environment setup - Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 920603619,
+            "language": "Python",
+            "last_commit": "2026-08-24T10:26:03Z",
+            "owner": "PrimeIntellect-ai",
+            "repo": "verifiers",
+            "stars": 4550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkyRL-v0/v0.1",
+          "description": "Agent RL Long-horizon real-world training Blog (v0) Blog (v0.1) Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 970890722,
+            "language": "Python",
+            "last_commit": "2026-08-22T01:02:39Z",
+            "owner": "NovaSky-AI",
+            "repo": "SkyRL",
+            "stars": 2190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AREAL",
+          "description": "Agent RL / LLM RL Asynchronous training Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 937952934,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:49:05Z",
+            "owner": "areal-project",
+            "repo": "AReaL",
+            "stars": 5687
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MARTI",
+          "description": "Multi-agent RL / LLM RL Integrated multi-agent training - Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 980971217,
+            "language": "Python",
+            "last_commit": "2026-08-20T13:25:41Z",
+            "owner": "TsinghuaC3I",
+            "repo": "MARTI",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EasyR1",
+          "description": "Agent RL / LLM RL Multimodal support - Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 936986786,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:58:19Z",
+            "owner": "hiyouga",
+            "repo": "EasyR1",
+            "stars": 5128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AgentFly",
+          "description": "Agent RL Scalable asynchronous execution Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1014211327,
+            "language": "Python",
+            "last_commit": "2026-08-18T19:18:08Z",
+            "owner": "Agent-One-Lab",
+            "repo": "AgentFly",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agent Lightning",
+          "description": "Agent RL Decoupled hierarchical RL Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1004147641,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:02:08Z",
+            "owner": "microsoft",
+            "repo": "agent-lightning",
+            "stars": 17631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenRLHF",
+          "description": "RLHF / LLM RL High-performance scalable RLHF Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 672415139,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:26:24Z",
+            "owner": "OpenRLHF",
+            "repo": "OpenRLHF",
+            "stars": 9950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TRL",
+          "description": "RLHF / LLM RL Hugging Face RLHF - Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250510075,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:59:53Z",
+            "owner": "huggingface",
+            "repo": "trl",
+            "stars": 19144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "trlX",
+          "description": "RLHF / LLM RL Distributed large-model RLHF Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 545104023,
+            "language": "Python",
+            "last_commit": "2024-01-08T20:07:19Z",
+            "owner": "CarperAI",
+            "repo": "trlx",
+            "stars": 4754
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HybridFlow",
+          "description": "RLHF / LLM RL Streamlined experiment management Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 881221486,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:46:27Z",
+            "owner": "verl-project",
+            "repo": "verl",
+            "stars": 23104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLiMe",
+          "description": "RLHF / LLM RL High-performance async RL - Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1004140701,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:38:30Z",
+            "owner": "THUDM",
+            "repo": "slime",
+            "stars": 8230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RLlib",
+          "description": "General RL / Multi-agent RL Production-grade scalable library Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71932349,
+            "language": "Python",
+            "last_commit": "2026-08-24T12:25:44Z",
+            "owner": "ray-project",
+            "repo": "ray",
+            "stars": 43597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Acme",
+          "description": "General RL Modular distributed components Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 260420185,
+            "language": "Python",
+            "last_commit": "2026-08-01T23:03:52Z",
+            "owner": "google-deepmind",
+            "repo": "acme",
+            "stars": 4047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tianshou",
+          "description": "General RL High-performance PyTorch platform Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129815042,
+            "language": "Python",
+            "last_commit": "2026-04-03T21:34:47Z",
+            "owner": "thu-ml",
+            "repo": "tianshou",
+            "stars": 10941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stable Baselines3",
+          "description": "General RL Reliable PyTorch algorithms Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261372860,
+            "language": "Python",
+            "last_commit": "2026-08-17T16:40:34Z",
+            "owner": "DLR-RM",
+            "repo": "stable-baselines3",
+            "stars": 13718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PFRL",
+          "description": "General RL Benchmarked prototyping algorithms Paper Code",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274629316,
+            "language": "Python",
+            "last_commit": "2026-03-02T04:48:45Z",
+            "owner": "pfnet",
+            "repo": "pfrl",
+            "stars": 1274
+          }
+        }
+      ],
+      "title": "Sec5.2 Frameworks"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T04:21:08.371Z",
+    "last_updated": "2026-08-24T14:10:56.207Z",
     "original_repository": "HHHHHejia/Awesome-AgenticLLM-RL-Papers",
     "original_repository_id": 1046985950,
     "original_repository_sha": "9b577322e9f8314c3c21f15c18f3218eb3e3bd22",
