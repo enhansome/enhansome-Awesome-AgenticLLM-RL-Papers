@@ -330,7 +330,7 @@
             "last_commit": "2026-02-04T01:43:46Z",
             "owner": "MikeWangWZHL",
             "repo": "PAPO",
-            "stars": 156
+            "stars": 157
           }
         },
         {
@@ -1425,7 +1425,7 @@
             "last_commit": "2026-08-21T11:36:45Z",
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17633
+            "stars": 17634
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "last_commit": "2026-01-21T10:12:33Z",
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70007
+            "stars": 70008
           }
         },
         {
@@ -1716,7 +1716,7 @@
             "last_commit": "2026-02-08T17:01:05Z",
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3688
+            "stars": 3689
           }
         },
         {
@@ -1881,7 +1881,7 @@
             "last_commit": "2026-08-21T09:11:07Z",
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3105
+            "stars": 3106
           }
         },
         {
@@ -2001,7 +2001,7 @@
             "last_commit": "2026-08-21T19:58:51Z",
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38612
+            "stars": 38614
           }
         },
         {
@@ -2322,7 +2322,7 @@
             "last_commit": "2026-08-25T03:40:52Z",
             "owner": "microsoft",
             "repo": "agent-lightning",
-            "stars": 17745
+            "stars": 17748
           }
         },
         {
@@ -2349,7 +2349,7 @@
             "archived": false,
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-25T03:35:05Z",
+            "last_commit": "2026-08-25T05:31:33Z",
             "owner": "huggingface",
             "repo": "trl",
             "stars": 19147
@@ -2379,10 +2379,10 @@
             "archived": false,
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-25T04:02:09Z",
+            "last_commit": "2026-08-25T05:36:18Z",
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23115
+            "stars": 23116
           }
         },
         {
@@ -2394,10 +2394,10 @@
             "archived": false,
             "id": 1004140701,
             "language": "Python",
-            "last_commit": "2026-08-25T03:06:32Z",
+            "last_commit": "2026-08-25T05:32:57Z",
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8237
+            "stars": 8236
           }
         },
         {
@@ -2412,7 +2412,7 @@
             "last_commit": "2026-08-25T03:52:42Z",
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43605
+            "stars": 43606
           }
         },
         {
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:08:41.305Z",
+    "last_updated": "2026-08-25T06:01:16.362Z",
     "original_repository": "HHHHHejia/Awesome-AgenticLLM-RL-Papers",
     "original_repository_id": 1046985950,
     "original_repository_sha": "9b577322e9f8314c3c21f15c18f3218eb3e3bd22",
