@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "verl: Volcano Engine Reinforcement Learning for LLMs",
+            "homepage": "https://verl.readthedocs.io/en/latest/index.html",
             "id": 989039140,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-30T08:42:30Z",
+            "open_issues": 0,
             "owner": "DtYXs",
             "repo": "verl",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"VinePPO: Unlocking RL Potential For LLM Reasoning Through Refined Credit Assignment\"",
+            "homepage": null,
             "id": 866341786,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-25T19:07:03Z",
+            "open_issues": 4,
             "owner": "McGill-NLP",
             "repo": "VinePPO",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -42,12 +52,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] Official code of $\\beta$-DPO: Direct Preference Optimization with Dynamic $\\beta$",
+            "homepage": null,
             "id": 804242627,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-23T07:38:15Z",
+            "open_issues": 0,
             "owner": "junkangwu",
             "repo": "beta-DPO",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "alignment",
+              "dpo",
+              "preference-alignment",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -58,12 +78,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] SimPO: Simple Preference Optimization with a Reference-Free Reward",
+            "homepage": null,
             "id": 804026091,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-16T03:55:07Z",
+            "open_issues": 25,
             "owner": "princeton-nlp",
             "repo": "SimPO",
-            "stars": 958
+            "stars": 958,
+            "topics": [
+              "alignment",
+              "large-language-models",
+              "preference-alignment",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -74,12 +104,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library with extensible implementations of DPO, KTO, PPO, ORPO, and other human-aware loss functions (HALOs).",
+            "homepage": "https://arxiv.org/abs/2402.01306",
             "id": 726727989,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-30T07:39:37Z",
+            "open_issues": 8,
             "owner": "ContextualAI",
             "repo": "HALOs",
-            "stars": 910
+            "stars": 910,
+            "topics": [
+              "alignment",
+              "dpo",
+              "halos",
+              "kto",
+              "ppo",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -90,12 +132,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for ORPO",
+            "homepage": null,
             "id": 770365509,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-31T06:39:39Z",
+            "open_issues": 11,
             "owner": "xfactlab",
             "repo": "orpo",
-            "stars": 479
+            "stars": 479,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -106,12 +153,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for \"Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs\"",
+            "homepage": null,
             "id": 819228692,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-19T17:10:23Z",
+            "open_issues": 18,
             "owner": "JIA-Lab-research",
             "repo": "Step-DPO",
-            "stars": 397
+            "stars": 397,
+            "topics": [
+              "dpo",
+              "llm",
+              "math",
+              "reasoning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -122,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-source RL System from ByteDance Seed and Tsinghua AIR",
+            "homepage": null,
             "id": 950036175,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-11T09:09:41Z",
+            "open_issues": 25,
             "owner": "BytedTsinghua-SIA",
             "repo": "DAPO",
-            "stars": 1861
+            "stars": 1861,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -138,12 +200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository of \"Learning to Reason under Off-Policy Guidance\"",
+            "homepage": "https://arxiv.org/pdf/2504.14945",
             "id": 969637328,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-03-20T10:50:45Z",
+            "open_issues": 1,
             "owner": "Simplified-Reasoning",
             "repo": "LUFFY",
-            "stars": 467
+            "stars": 467,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -154,12 +221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Geometric-Mean Policy Optimization",
+            "homepage": null,
             "id": 1019312405,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-26T13:05:43Z",
+            "open_issues": 5,
             "owner": "callsys",
             "repo": "GMPO",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -170,12 +242,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Understanding R1-Zero-Like Training: A Critical Perspective",
+            "homepage": "https://arxiv.org/pdf/2503.20783",
             "id": 951018704,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-27T14:39:28Z",
+            "open_issues": 7,
             "owner": "sail-sg",
             "repo": "understand-r1-zero",
-            "stars": 1274
+            "stars": 1274,
+            "topics": [
+              "llm",
+              "r1-zero",
+              "reasoning",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -186,12 +268,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R1-VL: Learning to Reason with Multimodal Large Language Models via Step-wise Group Relative Policy Optimization",
+            "homepage": null,
             "id": 948922111,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-02T01:57:21Z",
+            "open_issues": 8,
             "owner": "jingyi0000",
             "repo": "R1-VL",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "mllm",
+              "multimodal-large-language-models",
+              "r1",
+              "reasoning",
+              "reinforcement-learning",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -202,12 +296,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 992930689,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-08T15:31:35Z",
+            "open_issues": 1,
             "owner": "Infini-AI-Lab",
             "repo": "GRESO",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -218,12 +317,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Agent RL framework for LLM agents: multi-turn reinforcement learning with StarPO and reasoning-collapse diagnostics",
+            "homepage": "https://ragen-ai.github.io/",
             "id": 922278962,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-23T22:59:46Z",
+            "open_issues": 29,
             "owner": "mll-lab-nu",
             "repo": "RAGEN",
-            "stars": 2779
+            "stars": 2779,
+            "topics": [
+              "agent-rl",
+              "agentic-ai",
+              "llm-agents",
+              "multi-turn-rl",
+              "reinforcement-learning",
+              "rl-framework"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -234,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1015164256,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-21T03:52:01Z",
+            "open_issues": 2,
             "owner": "hkgc-1",
             "repo": "GHPO",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -250,12 +366,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Skywork-R1V is an advanced multimodal AI model series developed by Skywork AI, specializing in vision-language reasoning.",
+            "homepage": "https://arxiv.org/abs/2504.05599",
             "id": 948904124,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-29T03:11:37Z",
+            "open_issues": 36,
             "owner": "SkyworkAI",
             "repo": "Skywork-R1V",
-            "stars": 3168
+            "stars": 3168,
+            "topics": [
+              "deepseek-r1",
+              "grpo",
+              "llm",
+              "multimodal-r1",
+              "multimodal-understanding",
+              "r1v",
+              "reasoning",
+              "reinforcement-learning",
+              "skywork-r1v",
+              "vlm",
+              "vlm-r1"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -266,12 +399,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1043731762,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-30T05:56:34Z",
+            "open_issues": 5,
             "owner": "multimodal-art-projection",
             "repo": "TreePO",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -282,12 +420,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Entropy-Driven GRPO with Guided Error Correction for Advantage Diversity",
+            "homepage": "https://arxiv.org/abs/2507.21848",
             "id": 1018947767,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-28T01:38:11Z",
+            "open_issues": 1,
             "owner": "ZhangXJ199",
             "repo": "EDGE-GRPO",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -298,12 +441,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Agentic Reinforced Policy Optimization (ARPO)",
+            "homepage": null,
             "id": 1024219540,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-20T07:12:37Z",
+            "open_issues": 1,
             "owner": "RUC-NLPIR",
             "repo": "ARPO",
-            "stars": 1111
+            "stars": 1111,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -314,12 +462,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implemention of \"Depth-Breadth Synergy in RLVR: Unlocking LLM Reasoning Gains with Adaptive Exploration\"  (ICML 2026)",
+            "homepage": "https://arxiv.org/abs/2508.13755",
             "id": 1030506907,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-04T10:03:56Z",
+            "open_issues": 0,
             "owner": "yangzhch6",
             "repo": "DARS",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -330,12 +483,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tuning (RFT) of large language models (LLM).",
+            "homepage": "https://agentscope-ai.github.io/Trinity-RFT/",
             "id": 963030058,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T03:03:40Z",
+            "open_issues": 50,
             "owner": "agentscope-ai",
             "repo": "Trinity-RFT",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "agent",
+              "llm",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -346,12 +508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for \"PAPO: Perception-Aware Policy Optimization for Multimodal Reasoning\"",
+            "homepage": "https://mikewangwzhl.github.io/PAPO/",
             "id": 1014396860,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-04T01:43:46Z",
+            "open_issues": 3,
             "owner": "MikeWangWZHL",
             "repo": "PAPO",
-            "stars": 158
+            "stars": 158,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -362,12 +529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repository of paper \"Pass@k Training for Adaptively Balancing Exploration and Exploitation of Large Reasoning Models''",
+            "homepage": null,
             "id": 1023370950,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-15T01:24:58Z",
+            "open_issues": 8,
             "owner": "RUCAIBox",
             "repo": "Passk_Training",
-            "stars": 112
+            "stars": 112,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -378,12 +550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NeurIPS 2025",
+            "homepage": null,
             "id": 1081717967,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-27T08:43:43Z",
+            "open_issues": 1,
             "owner": "ZNLP",
             "repo": "KTAE",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -400,12 +577,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLM’25] DeepRetrieval — 🔥 Training Search Agent by RLVR with Retrieval Outcome",
+            "homepage": "https://pat-jj.github.io/DeepRetrieval-AI/",
             "id": 935832790,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-12T05:35:32Z",
+            "open_issues": 0,
             "owner": "pat-jj",
             "repo": "DeepRetrieval",
-            "stars": 717
+            "stars": 717,
+            "topics": [
+              "ai-search",
+              "aiagent",
+              "information-retrieval",
+              "large-language-models",
+              "reinforcement-learning",
+              "search-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -416,12 +605,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search-R1: An Efficient, Scalable RL Training Framework for Reasoning & Search Engine Calling interleaved LLM based on veRL",
+            "homepage": "https://arxiv.org/pdf/2503.09516",
             "id": 940662305,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-13T21:56:33Z",
+            "open_issues": 35,
             "owner": "PeterGriffinJin",
             "repo": "Search-R1",
-            "stars": 5342
+            "stars": 5343,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -432,12 +626,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R1-searcher: Incentivizing the Search Capability in LLMs via Reinforcement Learning",
+            "homepage": null,
             "id": 939487687,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-05T08:16:17Z",
+            "open_issues": 21,
             "owner": "RUCAIBox",
             "repo": "R1-Searcher",
-            "stars": 724
+            "stars": 724,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -448,12 +647,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R1-Searcher++: Incentivizing the Dynamic Knowledge Acquisition of LLMs via Reinforcement Learning",
+            "homepage": null,
             "id": 988457489,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-25T16:33:57Z",
+            "open_issues": 5,
             "owner": "RUCAIBox",
             "repo": "R1-Searcher-plus",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -464,12 +668,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ReSearch: Learning to Reason with Search for LLMs via Reinforcement Learning & ReCall: Learning to Reason with Tool Call for LLMs via Reinforcement Learning",
+            "homepage": "https://attractive-almandine-935.notion.site/ReCall-Learning-to-Reason-with-Tool-Call-for-LLMs-via-Reinforcement-Learning-1d7aec91e9bb8006ad40f9edbfe2191a",
             "id": 942031817,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-16T10:31:58Z",
+            "open_issues": 30,
             "owner": "Agent-RL",
             "repo": "ReCall",
-            "stars": 1431
+            "stars": 1431,
+            "topics": [
+              "agent",
+              "function-calling",
+              "llm",
+              "reinforcement-learning",
+              "tool-use"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -480,12 +695,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EMNLP MAIN 2025 StepSearch: Igniting LLMs Search Ability via Step-Wise Proximal Policy Optimization",
+            "homepage": null,
             "id": 988747282,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-13T13:07:22Z",
+            "open_issues": 5,
             "owner": "Zillwang",
             "repo": "StepSearch",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -496,12 +716,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧Tool-Star: Empowering LLM-brained Multi-Tool Reasoner via Reinforcement Learning",
+            "homepage": null,
             "id": 981604316,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-03T06:54:03Z",
+            "open_issues": 0,
             "owner": "RUC-NLPIR",
             "repo": "Tool-Star",
-            "stars": 409
+            "stars": 409,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -512,12 +737,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+            "homepage": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
             "id": 914316754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:12:11Z",
+            "open_issues": 92,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19882
+            "stars": 19884,
+            "topics": [
+              "agent",
+              "alibaba",
+              "artificial-intelligence",
+              "deep-research",
+              "deepresearch",
+              "information-seeking",
+              "llm",
+              "tongyi",
+              "web-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -528,12 +768,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] 🌐 WebThinker: Empowering Large Reasoning Models with Deep Research Capability",
+            "homepage": "https://foremost-beechnut-8ed.notion.site/WebThinker-Empowering-Large-Reasoning-Models-with-Deep-Research-Capability-d13158a27d924a4b9df7f9ab94066b64",
             "id": 956332356,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-08T03:40:49Z",
+            "open_issues": 11,
             "owner": "RUC-NLPIR",
             "repo": "WebThinker",
-            "stars": 1466
+            "stars": 1466,
+            "topics": [
+              "deepresearch",
+              "deepsearch",
+              "deepseek-r1",
+              "gaia",
+              "gpqa",
+              "hle",
+              "o1",
+              "o3",
+              "qwq",
+              "reasoning",
+              "reportgen",
+              "research",
+              "webwalker"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -544,12 +803,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+            "homepage": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
             "id": 914316754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:12:11Z",
+            "open_issues": 92,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19882
+            "stars": 19884,
+            "topics": [
+              "agent",
+              "alibaba",
+              "artificial-intelligence",
+              "deep-research",
+              "deepresearch",
+              "information-seeking",
+              "llm",
+              "tongyi",
+              "web-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -560,12 +834,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Data for Paper \"AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning\"",
+            "homepage": null,
             "id": 1028273705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-04T05:02:44Z",
+            "open_issues": 0,
             "owner": "weiyifan1023",
             "repo": "AutoTIR",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -576,12 +855,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tongyi Deep Research, the Leading Open-source Deep Research Agent",
+            "homepage": "https://tongyi-agent.github.io/blog/introducing-tongyi-deep-research/",
             "id": 914316754,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T13:12:11Z",
+            "open_issues": 92,
             "owner": "Alibaba-NLP",
             "repo": "DeepResearch",
-            "stars": 19882
+            "stars": 19884,
+            "topics": [
+              "agent",
+              "alibaba",
+              "artificial-intelligence",
+              "deep-research",
+              "deepresearch",
+              "information-seeking",
+              "llm",
+              "tongyi",
+              "web-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -592,12 +886,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Open-Source Large-Scale Reinforcement Learning Project for Search Agents",
+            "homepage": null,
             "id": 1032362388,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-26T06:28:16Z",
+            "open_issues": 14,
             "owner": "inclusionAI",
             "repo": "ASearcher",
-            "stars": 608
+            "stars": 608,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -608,12 +907,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZeroSearch: Incentivize the Search Capability of LLMs without Searching",
+            "homepage": "https://arxiv.org/pdf/2505.04588",
             "id": 979518567,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-16T17:34:58Z",
+            "open_issues": 0,
             "owner": "Alibaba-NLP",
             "repo": "ZeroSearch",
-            "stars": 1307
+            "stars": 1308,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -624,12 +928,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSRL: Self-Search Reinforcement Learning",
+            "homepage": "https://arxiv.org/abs/2508.10874",
             "id": 1035831739,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-20T10:25:29Z",
+            "open_issues": 0,
             "owner": "TsinghuaC3I",
             "repo": "SSRL",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -640,12 +949,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search Self-Play: Pushing the Frontier of Agent Capability without Supervision",
+            "homepage": "https://arxiv.org/abs/2510.18821",
             "id": 1080433116,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-23T15:45:52Z",
+            "open_issues": 1,
             "owner": "Alibaba-Quark",
             "repo": "SSP",
-            "stars": 106
+            "stars": 106,
+            "topics": [
+              "agent",
+              "alibaba",
+              "deep-research",
+              "llm",
+              "reinforcement-learning",
+              "self-play"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -662,12 +983,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official repo for \"AceCoder: Acing Coder RL via Automated Test-Case Synthesis\" [ACL25]",
+            "homepage": "https://tiger-ai-lab.github.io/AceCoder/",
             "id": 926233491,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-09T06:00:20Z",
+            "open_issues": 4,
             "owner": "TIGER-AI-Lab",
             "repo": "AceCoder",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "code",
+              "codellm",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -678,12 +1008,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1027586228,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T00:58:52Z",
+            "open_issues": 9,
             "owner": "agentica-project",
             "repo": "rllm",
-            "stars": 410
+            "stars": 410,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -694,12 +1029,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Accepted by Transactions on Machine Learning Research (TMLR)",
+            "homepage": null,
             "id": 660450114,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-10-05T09:52:35Z",
+            "open_issues": 0,
             "owner": "Zyq-scut",
             "repo": "RLTF",
-            "stars": 133
+            "stars": 133,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -710,12 +1050,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025 Spotlight] Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning",
+            "homepage": "https://openreview.net/forum?id=wPdBe9zxNr",
             "id": 995766630,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-19T04:38:37Z",
+            "open_issues": 5,
             "owner": "Gen-Verse",
             "repo": "CURE",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "code-generation",
+              "llm-coder",
+              "reinforcement-learning-algorithms",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -726,12 +1076,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository of Absolute Zero Reasoner",
+            "homepage": "https://andrewzh112.github.io/absolute-zero-reasoner/",
             "id": 976385189,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-24T00:13:19Z",
+            "open_issues": 2,
             "owner": "LeapLabTHU",
             "repo": "Absolute-Zero-Reasoner",
-            "stars": 1894
+            "stars": 1894,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -742,12 +1097,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2026] Breaking the SFT Plateau: Multimodal Structured Reinforcement Learning for Chart-to-Code Generation",
+            "homepage": "https://arxiv.org/abs/2508.13587",
             "id": 1040563127,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-01-27T06:21:07Z",
+            "open_issues": 2,
             "owner": "DocTron-hub",
             "repo": "MSRL",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -758,12 +1118,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "StepCoder: Improve Code Generation with Reinforcement Learning from Compiler Feedback",
+            "homepage": null,
             "id": 753058445,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-08-31T14:40:16Z",
+            "open_issues": 1,
             "owner": "Ablustrund",
             "repo": "APPS_Plus",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -774,12 +1139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(arXiv 2025) CodeBoost: Boosting Code LLMs by Squeezing Knowledge from Code Snippets with RL",
+            "homepage": null,
             "id": 1033631906,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-08T03:32:31Z",
+            "open_issues": 0,
             "owner": "sijieaaa",
             "repo": "CodeBoost",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -790,12 +1160,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AN O1 REPLICATION FOR CODING",
+            "homepage": null,
             "id": 895630967,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-11T03:14:04Z",
+            "open_issues": 4,
             "owner": "ADaM-BJTU",
             "repo": "O1-CODER",
-            "stars": 332
+            "stars": 332,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -806,12 +1181,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://portal-cornell.github.io/muCode/",
             "id": 932304030,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-02T00:55:00Z",
+            "open_issues": 1,
             "owner": "portal-cornell",
             "repo": "muCode",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "code-generation",
+              "large-language-models",
+              "multi-turn",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -822,12 +1207,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "R1-Code-Interpreter: Training LLMs to Reason with Code via Supervised and Reinforcement Learning",
+            "homepage": "https://huggingface.co/yongchao98",
             "id": 959981837,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-02-09T18:48:34Z",
+            "open_issues": 1,
             "owner": "yongchao98",
             "repo": "R1-Code-Interpreter",
-            "stars": 47
+            "stars": 47,
+            "topics": [
+              "code-interpreter",
+              "large-language-models",
+              "planning",
+              "reasoning-models",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -838,12 +1234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] Teaching Language Models to Critique via Reinforcement Learning",
+            "homepage": "https://critic-rl.github.io",
             "id": 925914166,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-06T01:37:42Z",
+            "open_issues": 0,
             "owner": "HKUNLP",
             "repo": "critic-rl",
-            "stars": 126
+            "stars": 126,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -854,12 +1255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 854947741,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-14T02:04:31Z",
+            "open_issues": 1,
             "owner": "swtheing",
             "repo": "PF-PPO-RLHF",
-            "stars": 34
+            "stars": 34,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -870,12 +1276,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1027586228,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-17T00:58:52Z",
+            "open_issues": 9,
             "owner": "agentica-project",
             "repo": "rllm",
-            "stars": 410
+            "stars": 410,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -886,12 +1297,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'25] Official codebase for \"SWE-RL: Advancing LLM Reasoning via Reinforcement Learning on Open Software Evolution\"",
+            "homepage": "https://arxiv.org/abs/2502.18449",
             "id": 937708273,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-03-16T21:31:36Z",
+            "open_issues": 6,
             "owner": "facebookresearch",
             "repo": "swe-rl",
-            "stars": 719
+            "stars": 719,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -902,12 +1318,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search",
+            "homepage": "https://arxiv.org/pdf/2502.02508",
             "id": 926887807,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-03T05:25:35Z",
+            "open_issues": 1,
             "owner": "satori-reasoning",
             "repo": "Satori",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "large-language-models",
+              "reasoning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -918,12 +1343,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement Learning for Repository-Level Code Completion",
+            "homepage": null,
             "id": 830801889,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-06-15T07:05:06Z",
+            "open_issues": 1,
             "owner": "DeepSoftwareAnalytics",
             "repo": "RLCoder",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -934,12 +1364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.",
+            "homepage": null,
             "id": 752925682,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-01-09T03:05:47Z",
+            "open_issues": 66,
             "owner": "QwenLM",
             "repo": "Qwen3",
-            "stars": 27564
+            "stars": 27566,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -950,12 +1385,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of \"ML-Agent: Reinforcing LLM Agents for Autonomous Machine Learning Engineering\"",
+            "homepage": null,
             "id": 993012542,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-21T18:17:12Z",
+            "open_issues": 2,
             "owner": "MASWorks",
             "repo": "ML-Agent",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -966,12 +1406,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepAnalyze is the first agentic LLM for autonomous data science. 🎈你的AI数据分析师，自动分析大量数据，一键生成专业分析报告！",
+            "homepage": "https://ruc-deepanalyze.github.io",
             "id": 1074218324,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:53:27Z",
+            "open_issues": 23,
             "owner": "ruc-datalab",
             "repo": "DeepAnalyze",
-            "stars": 4569
+            "stars": 4569,
+            "topics": [
+              "agent",
+              "agentic",
+              "agentic-ai",
+              "ai",
+              "ai-scientist",
+              "chatbot",
+              "data",
+              "data-analysis",
+              "data-engineering",
+              "data-science",
+              "data-visualization",
+              "database",
+              "deep-research",
+              "jupyter",
+              "llm",
+              "open-source",
+              "python",
+              "python-programming",
+              "qwen",
+              "science"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -982,12 +1448,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark and research code for the paper SWEET-RL Training Multi-Turn LLM Agents onCollaborative Reasoning Tasks",
+            "homepage": null,
             "id": 950247407,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-05T18:35:45Z",
+            "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "sweet_rl",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -1004,12 +1475,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 955887989,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-24T12:14:33Z",
+            "open_issues": 24,
             "owner": "GAIR-NLP",
             "repo": "ToRL",
-            "stars": 352
+            "stars": 352,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1020,12 +1496,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 979840085,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-16T08:41:05Z",
+            "open_issues": 4,
             "owner": "yyht",
             "repo": "openrlhf_async_pipline",
-            "stars": 90
+            "stars": 90,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1036,12 +1517,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] TTRL: Test-Time Reinforcement Learning",
+            "homepage": "https://arxiv.org/abs/2504.16084",
             "id": 971091060,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-15T02:47:09Z",
+            "open_issues": 17,
             "owner": "PRIME-RL",
             "repo": "TTRL",
-            "stars": 1121
+            "stars": 1121,
+            "topics": [
+              "llm",
+              "reasoning",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1052,12 +1542,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RENT (Reinforcement Learning via Entropy Minimization) is an unsupervised method for training reasoning LLMs.",
+            "homepage": "https://rent-rl.github.io",
             "id": 992054195,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-31T20:48:19Z",
+            "open_issues": 0,
             "owner": "satrams",
             "repo": "rent-rl",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "entropy",
+              "grpo",
+              "llms",
+              "reinforcement-learning",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1068,12 +1569,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML 2025] Satori: Reinforcement Learning with Chain-of-Action-Thought Enhances LLM Reasoning via Autoregressive Search",
+            "homepage": "https://arxiv.org/pdf/2502.02508",
             "id": 926887807,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-03T05:25:35Z",
+            "open_issues": 1,
             "owner": "satori-reasoning",
             "repo": "Satori",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "large-language-models",
+              "reasoning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1084,12 +1594,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025] Reinforcement Learning for Reasoning in Large Language Models with One Training Example",
+            "homepage": null,
             "id": 975543937,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-11T21:33:25Z",
+            "open_issues": 9,
             "owner": "ypwang61",
             "repo": "One-Shot-RLVR",
-            "stars": 445
+            "stars": 445,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1100,12 +1615,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 848189443,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-12T08:26:02Z",
+            "open_issues": 38,
             "owner": "microsoft",
             "repo": "rStar",
-            "stars": 1425
+            "stars": 1425,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1116,12 +1636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔧Tool-Star: Empowering LLM-brained Multi-Tool Reasoner via Reinforcement Learning",
+            "homepage": null,
             "id": 981604316,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-03T06:54:03Z",
+            "open_issues": 0,
             "owner": "RUC-NLPIR",
             "repo": "Tool-Star",
-            "stars": 409
+            "stars": 409,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1132,12 +1657,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The offical repo for \"Parallel-R1: Towards Parallel Thinking via Reinforcement Learning\"",
+            "homepage": null,
             "id": 1052923896,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-04T03:56:40Z",
+            "open_issues": 3,
             "owner": "zhengkid",
             "repo": "Parallel-R1",
-            "stars": 261
+            "stars": 261,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1148,12 +1678,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and Data for Paper \"AutoTIR: Autonomous Tools Integrated Reasoning via Reinforcement Learning\"",
+            "homepage": null,
             "id": 1028273705,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-04T05:02:44Z",
+            "open_issues": 0,
             "owner": "weiyifan1023",
             "repo": "AutoTIR",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1164,12 +1699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 843001887,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-16T03:33:41Z",
+            "open_issues": 10,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-Prover-V1.5",
-            "stars": 584
+            "stars": 584,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1180,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Through RL training, stimulate the reflective capabilities of the prover model.",
+            "homepage": null,
             "id": 962423141,
             "language": null,
+            "license": null,
             "last_commit": "2025-04-17T14:36:16Z",
+            "open_issues": 0,
             "owner": "Leanabell-LM",
             "repo": "Leanabell-Prover",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1196,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Technical report of Kimina-Prover Preview.",
+            "homepage": null,
             "id": 966106925,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-07-10T13:04:40Z",
+            "open_issues": 1,
             "owner": "MoonshotAI",
             "repo": "Kimina-Prover-Preview",
-            "stars": 376
+            "stars": 376,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1212,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1020653154,
             "language": "Lean",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-13T15:03:35Z",
+            "open_issues": 3,
             "owner": "ByteDance-Seed",
             "repo": "Seed-Prover",
-            "stars": 440
+            "stars": 440,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1228,12 +1783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model",
+            "homepage": null,
             "id": 790044051,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-09-25T10:23:55Z",
+            "open_issues": 89,
             "owner": "deepseek-ai",
             "repo": "DeepSeek-V2",
-            "stars": 5038
+            "stars": 5038,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1244,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Verifier-integrated reasoning for formal theorem proving via RL. ",
+            "homepage": null,
             "id": 1017924127,
             "language": null,
+            "license": null,
             "last_commit": "2025-07-29T11:39:19Z",
+            "open_issues": 0,
             "owner": "Leanabell-LM",
             "repo": "Leanabell-Prover-V2",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1260,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-art bilingual open-sourced Math reasoning LLMs.",
+            "homepage": null,
             "id": 746609632,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-22T16:18:00Z",
+            "open_issues": 10,
             "owner": "InternLM",
             "repo": "InternLM-Math",
-            "stars": 548
+            "stars": 548,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1276,12 +1846,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 781689591,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-19T18:04:48Z",
+            "open_issues": 4,
             "owner": "Lagooon",
             "repo": "LeanSTaR",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1292,12 +1867,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official implementation of \"Self-play LLM Theorem Provers with Iterative Conjecturing and Proving\"",
+            "homepage": null,
             "id": 930624012,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-28T19:32:48Z",
+            "open_issues": 1,
             "owner": "kfdong",
             "repo": "STP",
-            "stars": 122
+            "stars": 122,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -1314,12 +1894,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GPT-4V in Wonderland: LMMs as Smartphone Agents",
+            "homepage": null,
             "id": 718268466,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-17T14:48:25Z",
+            "open_issues": 1,
             "owner": "zzxslp",
             "repo": "MM-Navigator",
-            "stars": 134
+            "stars": 134,
+            "topics": [
+              "gpt4v",
+              "llm-agents",
+              "web-navigation"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1330,12 +1919,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML'24] SeeAct is a system for generalist web agents that autonomously carry out tasks on any given website, with a focus on large multimodal models (LMMs) such as GPT-4V(ision).",
+            "homepage": "https://osu-nlp-group.github.io/SeeAct/",
             "id": 734457830,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-02-03T02:09:18Z",
+            "open_issues": 15,
             "owner": "OSU-NLP-Group",
             "repo": "SeeAct",
-            "stars": 852
+            "stars": 852,
+            "topics": [
+              "agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1346,12 +1942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 913695825,
             "language": null,
+            "license": null,
             "last_commit": "2025-05-23T08:29:58Z",
+            "open_issues": 2,
             "owner": "InfiXAI",
             "repo": "InfiGUIAgent",
-            "stars": 74
+            "stars": 74,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1362,12 +1963,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2026 Findings]  UI-AGILE: Advancing GUI Agents with Effective Reinforcement Learning and Precise Inference-Time Grounding",
+            "homepage": null,
             "id": 1030730839,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-08T15:49:42Z",
+            "open_issues": 1,
             "owner": "KDEGroup",
             "repo": "UI-AGILE",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "agent",
+              "cvpr",
+              "grounding",
+              "gui-agent",
+              "llm-training",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1378,12 +1991,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2026]Release of code, datasets and model for our work TongUI: Internet-Scale Trajectories from Multimodal Web Tutorials for Generalized GUI Agents",
+            "homepage": "https://tongui-agent.github.io/",
             "id": 945825260,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-12-01T07:43:39Z",
+            "open_issues": 1,
             "owner": "TongUI-agent",
             "repo": "TongUI-agent",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "agent",
+              "computer-use",
+              "computer-use-agent",
+              "gui-agent",
+              "tongui",
+              "vision-language-action",
+              "vision-language-action-model",
+              "vision-language-model"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1394,12 +2021,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Official implementation of GUI-R1 : A Generalist R1-Style Vision-Language Action Model For GUI Agents",
+            "homepage": null,
             "id": 968501809,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-05T14:44:21Z",
+            "open_issues": 9,
             "owner": "ritzz-ai",
             "repo": "GUI-R1",
-            "stars": 257
+            "stars": 257,
+            "topics": [
+              "deep-reinforcement-learning",
+              "grpo",
+              "gui-agent",
+              "large-multimodal-models",
+              "mllm-reasoning",
+              "multimodal",
+              "multimodal-large-language-models",
+              "o1",
+              "r1"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1410,12 +2052,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2026] Code for \"UI-R1: Enhancing Efficient Action Prediction of GUI Agents by Reinforcement Learning\"",
+            "homepage": "https://arxiv.org/abs/2503.21620",
             "id": 956382959,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-24T08:52:12Z",
+            "open_issues": 0,
             "owner": "lll6gg",
             "repo": "UI-R1",
-            "stars": 160
+            "stars": 160,
+            "topics": [
+              "efficient-reasoning",
+              "gui-agent",
+              "multimodal-large-language-models",
+              "multimodal-learning",
+              "r1",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1426,12 +2080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the paper \"InfiGUI-R1: Advancing Multimodal GUI Agents from Reactive Actors to Deliberative Reasoners\"",
+            "homepage": "https://arxiv.org/abs/2504.14239",
             "id": 969005205,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-04T13:36:09Z",
+            "open_issues": 0,
             "owner": "InfiXAI",
             "repo": "InfiGUI-R1",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1442,12 +2101,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AgentCPM-GUI: An on-device GUI agent for operating Android apps, enhancing reasoning ability with reinforcement fine-tuning for efficient task execution.",
+            "homepage": null,
             "id": 982552795,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-11T08:24:15Z",
+            "open_issues": 2,
             "owner": "OpenBMB",
             "repo": "AgentCPM-GUI",
-            "stars": 1410
+            "stars": 1410,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1458,12 +2122,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pioneering Automated GUI Interaction with Native Agents",
+            "homepage": null,
             "id": 918932479,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-27T04:57:26Z",
+            "open_issues": 56,
             "owner": "bytedance",
             "repo": "UI-TARS",
-            "stars": 11399
+            "stars": 11401,
+            "topics": [
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1474,12 +2145,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for paper DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning.",
+            "homepage": null,
             "id": 817660183,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-22T06:07:42Z",
+            "open_issues": 4,
             "owner": "DigiRL-agent",
             "repo": "digirl",
-            "stars": 394
+            "stars": 395,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1490,12 +2166,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZeroGUI: Automating Online GUI Learning at Zero Human Cost",
+            "homepage": "https://arxiv.org/abs/2505.23762",
             "id": 992342929,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-17T16:39:40Z",
+            "open_issues": 1,
             "owner": "OpenGVLab",
             "repo": "ZeroGUI",
-            "stars": 121
+            "stars": 121,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -1512,12 +2193,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+            "homepage": "https://docs.camel-ai.org/",
             "id": 615510678,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:39:24Z",
+            "open_issues": 488,
             "owner": "camel-ai",
             "repo": "camel",
-            "stars": 17651
+            "stars": 17652,
+            "topics": [
+              "agent",
+              "ai-societies",
+              "artificial-intelligence",
+              "communicative-ai",
+              "cooperative-ai",
+              "deep-learning",
+              "large-language-models",
+              "multi-agent-systems",
+              "natural-language-processing"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1528,12 +2224,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+            "homepage": "https://atoms.dev/",
             "id": 660551251,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-21T10:12:33Z",
+            "open_issues": 135,
             "owner": "FoundationAgents",
             "repo": "MetaGPT",
-            "stars": 70081
+            "stars": 70090,
+            "topics": [
+              "agent",
+              "gpt",
+              "llm",
+              "metagpt",
+              "multi-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1544,12 +2251,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MAD: The first work to explore Multi-Agent Debate with Large Language Models :D",
+            "homepage": "https://arxiv.org/abs/2305.19118",
             "id": 643952838,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-16T06:47:28Z",
+            "open_issues": 0,
             "owner": "Skytliang",
             "repo": "Multi-Agents-Debate",
-            "stars": 607
+            "stars": 607,
+            "topics": [
+              "chatgpt",
+              "gpt-4",
+              "large-language-models",
+              "llms",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1560,12 +2278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Together Mixture-Of-Agents (MoA) –  65.1% on AlpacaEval with OSS models",
+            "homepage": null,
             "id": 810431023,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-07T03:21:19Z",
+            "open_issues": 23,
             "owner": "togethercomputer",
             "repo": "MoA",
-            "stars": 2970
+            "stars": 2971,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1576,12 +2299,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔥🔥🔥 ICLR 2025 Oral. Automating Agentic Workflow Generation.",
+            "homepage": "https://arxiv.org/abs/2410.10762",
             "id": 947108760,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-25T06:46:56Z",
+            "open_issues": 6,
             "owner": "FoundationAgents",
             "repo": "AFlow",
-            "stars": 582
+            "stars": 582,
+            "topics": [
+              "agentic-workflow",
+              "agents",
+              "multiagent-systems",
+              "optimization"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1592,12 +2325,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐝  The First Self-Improving agents with RL / Prompting Optimization",
+            "homepage": "https://gptswarm.org",
             "id": 763733771,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-05T10:39:09Z",
+            "open_issues": 4,
             "owner": "metauto-ai",
             "repo": "GPTSwarm",
-            "stars": 1040
+            "stars": 1040,
+            "topics": [
+              "agent",
+              "ai",
+              "gpt",
+              "multi-agent",
+              "python",
+              "reinforcement-learning",
+              "self-improvement",
+              "society-of-mind",
+              "swarm-intelligence"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1608,12 +2356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICML'25 Oral] Multi-agent Architecture Search via Agentic Supernet",
+            "homepage": "https://www.arxiv.org/abs/2502.04180",
             "id": 927859521,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-13T02:37:29Z",
+            "open_issues": 9,
             "owner": "bingreeky",
             "repo": "MaAS",
-            "stars": 282
+            "stars": 282,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1624,12 +2377,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 868449960,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-05T07:17:28Z",
+            "open_issues": 6,
             "owner": "yanweiyue",
             "repo": "GDesigner",
-            "stars": 98
+            "stars": 98,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1640,12 +2398,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 965034411,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T06:21:47Z",
+            "open_issues": 0,
             "owner": "jwliao-ai",
             "repo": "MARFT",
-            "stars": 87
+            "stars": 87,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1656,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 991541627,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-06T14:58:58Z",
+            "open_issues": 1,
             "owner": "chanwoo-park-official",
             "repo": "MAPoRL",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1672,12 +2440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 970124081,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-06T03:09:37Z",
+            "open_issues": 1,
             "owner": "sail-sg",
             "repo": "FlowReasoner",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1688,12 +2461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the paper \"Contextual Counterfactual Credit Assignment for Multi-Agent Reinforcement Learning in LLM Collaboration\". (by Yanjun Chen)",
+            "homepage": null,
             "id": 1174275135,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-10T08:03:05Z",
+            "open_issues": 1,
             "owner": "EIT-EAST-Lab",
             "repo": "C3",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1704,12 +2482,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2025 Spotlight] Co-Evolving LLM Coder and Unit Tester via Reinforcement Learning",
+            "homepage": "https://openreview.net/forum?id=wPdBe9zxNr",
             "id": 995766630,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-19T04:38:37Z",
+            "open_issues": 5,
             "owner": "Gen-Verse",
             "repo": "CURE",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "code-generation",
+              "llm-coder",
+              "reinforcement-learning-algorithms",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1720,12 +2508,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+            "homepage": null,
             "id": 942114501,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-27T06:40:00Z",
+            "open_issues": 116,
             "owner": "camel-ai",
             "repo": "owl",
-            "stars": 20109
+            "stars": 20109,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "multi-agent-systems",
+              "task-automation",
+              "web-interaction"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -1742,12 +2541,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 721381957,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-02T03:27:11Z",
+            "open_issues": 7,
             "owner": "abdulhaim",
             "repo": "LMRL-Gym",
-            "stars": 117
+            "stars": 117,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1758,12 +2562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ALFWorld: Aligning Text and Embodied Environments for Interactive Learning",
+            "homepage": null,
             "id": 303795676,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-08T15:40:09Z",
+            "open_issues": 14,
             "owner": "alfworld",
             "repo": "alfworld",
-            "stars": 846
+            "stars": 847,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1774,12 +2583,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "​TextWorld is a sandbox learning environment for the training and evaluation of reinforcement learning (RL) agents on text-based games.",
+            "homepage": null,
             "id": 138774676,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-30T19:15:32Z",
+            "open_issues": 21,
             "owner": "microsoft",
             "repo": "TextWorld",
-            "stars": 1441
+            "stars": 1441,
+            "topics": [
+              "reinforcement-learning",
+              "text-based-adventure",
+              "text-based-game"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1790,12 +2608,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ScienceWorld is a text-based virtual environment centered around accomplishing tasks from the standardized elementary science curriculum.",
+            "homepage": "https://sciworld.apps.allenai.org/",
             "id": 466027448,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T00:59:45Z",
+            "open_issues": 14,
             "owner": "allenai",
             "repo": "ScienceWorld",
-            "stars": 383
+            "stars": 383,
+            "topics": [
+              "language-model",
+              "machine-learning",
+              "reinforcement-learning",
+              "text-based-game",
+              "text-based-game-framework"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1806,12 +2635,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code and implementations for the ACL 2025 paper \"AgentGym: Evolving Large Language Model-based Agents across Diverse Environments\" by Zhiheng Xi et al.",
+            "homepage": "https://arxiv.org/abs/2406.04151",
             "id": 806444030,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-30T14:12:49Z",
+            "open_issues": 30,
             "owner": "WooooDyy",
             "repo": "AgentGym",
-            "stars": 837
+            "stars": 837,
+            "topics": [
+              "agent",
+              "large-language-models",
+              "llm",
+              "llm-based-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1822,12 +2661,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+            "homepage": null,
             "id": 671759870,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-08T17:01:05Z",
+            "open_issues": 76,
             "owner": "THUDM",
             "repo": "AgentBench",
-            "stars": 3701
+            "stars": 3701,
+            "topics": [
+              "chatgpt",
+              "gpt-4",
+              "llm",
+              "llm-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1838,12 +2687,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implement on InternBootCamp",
+            "homepage": null,
             "id": 979788576,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-12T13:13:22Z",
+            "open_issues": 3,
             "owner": "InternLM",
             "repo": "InternBootcamp",
-            "stars": 351
+            "stars": 351,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1854,12 +2708,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 762416453,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-13T03:21:32Z",
+            "open_issues": 38,
             "owner": "snap-research",
             "repo": "locomo",
-            "stars": 1129
+            "stars": 1131,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1870,12 +2729,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source code for ICLR 2026 Paper: Evaluating Memory in LLM Agents via Incremental Multi-Turn Interactions",
+            "homepage": "https://arxiv.org/abs/2507.05257",
             "id": 1009976354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:13:01Z",
+            "open_issues": 6,
             "owner": "HUST-AI-HYZ",
             "repo": "MemoryAgentBench",
-            "stars": 443
+            "stars": 443,
+            "topics": [
+              "agent",
+              "llm",
+              "memory",
+              "memory-agent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1886,12 +2755,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2022] 🛒WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents",
+            "homepage": "https://webshop-pnlp.github.io",
             "id": 514715868,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-09-06T04:00:38Z",
+            "open_issues": 18,
             "owner": "princeton-nlp",
             "repo": "WebShop",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "decision-making",
+              "language",
+              "language-grounding",
+              "ml",
+              "nlp",
+              "rl",
+              "rl-environment",
+              "shopping",
+              "sim-to-real",
+              "web-based"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1902,12 +2787,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS'25 D&B] Mind2Web-2 Benchmark: Evaluating Agentic Search with Agent-as-a-Judge",
+            "homepage": "https://osu-nlp-group.github.io/Mind2Web-2/",
             "id": 998556506,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-17T20:56:34Z",
+            "open_issues": 1,
             "owner": "OSU-NLP-Group",
             "repo": "Mind2Web-2",
-            "stars": 114
+            "stars": 114,
+            "topics": [
+              "agents",
+              "benchmark",
+              "cua",
+              "dataset",
+              "webagent"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1918,12 +2814,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
+            "homepage": "https://webarena.dev",
             "id": 670111980,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-26T21:16:00Z",
+            "open_issues": 102,
             "owner": "web-arena-x",
             "repo": "webarena",
-            "stars": 1590
+            "stars": 1590,
+            "topics": [
+              "agent",
+              "nlp"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1934,12 +2838,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source benchmark for browser AI agents on daily tasks.",
+            "homepage": "https://claw-bench.com",
             "id": 1206519531,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T20:48:02Z",
+            "open_issues": 60,
             "owner": "TIGER-AI-Lab",
             "repo": "ClawBench",
-            "stars": 601
+            "stars": 603,
+            "topics": [
+              "agent-evaluation",
+              "agentic-ai",
+              "ai-agent-benchmark",
+              "ai-agents",
+              "benchmark",
+              "browser-agent",
+              "browser-automation",
+              "browser-use",
+              "chrome-agent",
+              "chrome-extension",
+              "computer-use",
+              "dataset",
+              "evaluation",
+              "everyday-tasks",
+              "llm",
+              "llm-evaluation",
+              "online-tasks",
+              "real-world-benchmark",
+              "web-agent",
+              "web-agents"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1950,12 +2880,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VisualWebArena is a benchmark for multimodal agents.",
+            "homepage": "https://jykoh.com/vwa",
             "id": 747496066,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-11-09T00:47:00Z",
+            "open_issues": 27,
             "owner": "web-arena-x",
             "repo": "visualwebarena",
-            "stars": 485
+            "stars": 485,
+            "topics": [
+              "agents",
+              "llm",
+              "multimodal"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1966,12 +2905,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌍 AppWorld: A Controllable World of Apps and People for Benchmarking Function Calling and Interactive Coding Agent, ACL'24 Best Resource Paper.",
+            "homepage": "https://appworld.dev/",
             "id": 819144961,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-17T22:41:42Z",
+            "open_issues": 19,
             "owner": "StonyBrookNLP",
             "repo": "appworld",
-            "stars": 492
+            "stars": 492,
+            "topics": [
+              "acl-2024",
+              "ai-agents",
+              "ai-apis",
+              "ai-assistants",
+              "ai-environment",
+              "ai-planning",
+              "autonomous-agents",
+              "coding-agents",
+              "function-calling",
+              "interactive-coding",
+              "llm",
+              "llm-agents",
+              "nlp-datasets",
+              "nlp-machine-learning",
+              "tool-usage"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1982,12 +2942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AndroidWorld is an environment and benchmark for autonomous agents",
+            "homepage": null,
             "id": 800171422,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-16T20:18:37Z",
+            "open_issues": 47,
             "owner": "google-research",
             "repo": "android_world",
-            "stars": 863
+            "stars": 866,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -1998,12 +2963,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+            "homepage": "https://os-world.github.io",
             "id": 705433049,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T09:11:07Z",
+            "open_issues": 200,
             "owner": "xlang-ai",
             "repo": "OSWorld",
-            "stars": 3112
+            "stars": 3112,
+            "topics": [
+              "agent",
+              "artificial-intelligence",
+              "benchmark",
+              "cli",
+              "code-generation",
+              "gui",
+              "language-model",
+              "large-action-model",
+              "llm",
+              "multimodal",
+              "natural-language-processing",
+              "reinforcement-learning",
+              "rpa",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2014,12 +2999,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Text-Based Environment for Interactive Debugging",
+            "homepage": "https://aka.ms/debug-gym/",
             "id": 883186358,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:31:11Z",
+            "open_issues": 13,
             "owner": "microsoft",
             "repo": "debug-gym",
-            "stars": 303
+            "stars": 303,
+            "topics": [
+              "agentic",
+              "debugging",
+              "llm",
+              "text-based-game"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2030,12 +3025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 979658733,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-30T00:30:27Z",
+            "open_issues": 3,
             "owner": "MLE-Dojo",
             "repo": "MLE-Dojo",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2046,12 +3046,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+            "homepage": "https://www.taubench.com",
             "id": 999222244,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-27T00:08:35Z",
+            "open_issues": 184,
             "owner": "sierra-research",
             "repo": "tau2-bench",
-            "stars": 1901
+            "stars": 1905,
+            "topics": [
+              "ai",
+              "benchmark",
+              "conversational-agents",
+              "language-model-agent",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2062,12 +3073,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An agent benchmark with tasks in a simulated software company.",
+            "homepage": "https://the-agent-company.com",
             "id": 770272502,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-11-17T20:31:16Z",
+            "open_issues": 25,
             "owner": "TheAgentCompany",
             "repo": "TheAgentCompany",
-            "stars": 771
+            "stars": 771,
+            "topics": [
+              "agent",
+              "ai",
+              "ai-benchmark",
+              "ai-research",
+              "benchmark",
+              "llm"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2078,12 +3101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR'26] MedAgentGYM: Training LLM Agents for Code-Based Medical Reasoning at Scale",
+            "homepage": "https://wshi83.github.io/MedAgentGym-Page/",
             "id": 994565152,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-04-12T05:38:05Z",
+            "open_issues": 1,
             "owner": "wshi83",
             "repo": "MedAgentGym",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "agent",
+              "gym-environment",
+              "llm",
+              "llms",
+              "medical-application"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2094,12 +3128,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[COLM 2025] Official repository for R2E-Gym: Procedural Environment Generation and Hybrid Verifiers for Scaling Open-Weights SWE Agents",
+            "homepage": "https://r2e-gym.github.io/",
             "id": 961591619,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-13T04:53:01Z",
+            "open_issues": 11,
             "owner": "R2E-Gym",
             "repo": "R2E-Gym",
-            "stars": 325
+            "stars": 325,
+            "topics": [
+              "agents",
+              "coding-agents",
+              "llm",
+              "llm-code",
+              "swe"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2110,12 +3155,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper \"Evaluating Large Language Models Trained on Code\"",
+            "homepage": null,
             "id": 383601290,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-17T18:22:17Z",
+            "open_issues": 45,
             "owner": "openai",
             "repo": "human-eval",
-            "stars": 3355
+            "stars": 3355,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2126,12 +3176,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Research",
+            "homepage": "https://research.google",
             "id": 151619717,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T09:11:14Z",
+            "open_issues": 1989,
             "owner": "google-research",
             "repo": "google-research",
-            "stars": 38641
+            "stars": 38643,
+            "topics": [
+              "ai",
+              "machine-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2142,12 +3201,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[ICLR'25] BigCodeBench: Benchmarking Code Generation Towards AGI",
+            "homepage": "https://bigcode-bench.github.io/",
             "id": 793526430,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-03T07:22:42Z",
+            "open_issues": 30,
             "owner": "bigcode-project",
             "repo": "bigcodebench",
-            "stars": 519
+            "stars": 519,
+            "topics": [
+              "agent",
+              "agents",
+              "benchmark",
+              "chatgpt",
+              "claude-3",
+              "code-generation",
+              "deepseek",
+              "function-calling",
+              "gemini",
+              "gpt-4",
+              "instruction-following",
+              "large-language-models",
+              "llm",
+              "program-synthesis",
+              "tool-use"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2158,12 +3238,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for the paper \"LiveCodeBench: Holistic and Contamination Free Evaluation of Large Language Models for Code\"",
+            "homepage": "https://livecodebench.github.io/",
             "id": 771234452,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-07-16T00:58:38Z",
+            "open_issues": 39,
             "owner": "LiveCodeBench",
             "repo": "LiveCodeBench",
-            "stars": 934
+            "stars": 935,
+            "topics": [
+              "code-execution",
+              "code-generation",
+              "code-llms",
+              "code-repair",
+              "gpt-4",
+              "test-generation"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2174,12 +3266,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SWE-bench: Can Language Models Resolve Real-world Github Issues?",
+            "homepage": "https://www.swebench.com",
             "id": 700117650,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-18T23:53:40Z",
+            "open_issues": 17,
             "owner": "SWE-bench",
             "repo": "SWE-bench",
-            "stars": 5730
+            "stars": 5733,
+            "topics": [
+              "benchmark",
+              "language-model",
+              "software-engineering"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2190,12 +3291,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Comprehensive Benchmark for Software Development.",
+            "homepage": null,
             "id": 771282746,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-30T13:10:52Z",
+            "open_issues": 0,
             "owner": "open-compass",
             "repo": "DevEval",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2206,12 +3312,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 810102445,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-03T08:11:33Z",
+            "open_issues": 0,
             "owner": "RyanLoil",
             "repo": "ProjectEval",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2222,12 +3333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[EMNLP 2024] DA-Code: Agent Data Science Code Generation Benchmark for Large Language Models",
+            "homepage": null,
             "id": 807865276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-01-12T04:43:10Z",
+            "open_issues": 3,
             "owner": "yiyihum",
             "repo": "da-code",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2238,12 +3354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Benchmark and research code for the paper SWEET-RL Training Multi-Turn LLM Agents onCollaborative Reasoning Tasks",
+            "homepage": null,
             "id": 950247407,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-05T18:35:45Z",
+            "open_issues": 7,
             "owner": "facebookresearch",
             "repo": "sweet_rl",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2254,12 +3375,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://doc2feat-bench.github.io/Doc2Feat-bench/",
             "id": 1025348753,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-01T06:08:40Z",
+            "open_issues": 0,
             "owner": "Doc2Feat-bench",
             "repo": "Doc2Feat-bench",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2270,12 +3396,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering",
+            "homepage": "https://openai.com/index/mle-bench/",
             "id": 869660918,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-24T17:33:44Z",
+            "open_issues": 10,
             "owner": "openai",
             "repo": "mle-bench",
-            "stars": 1724
+            "stars": 1724,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2286,12 +3417,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAI Frontier Evals",
+            "homepage": null,
             "id": 956639757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-21T20:53:31Z",
+            "open_issues": 66,
             "owner": "openai",
             "repo": "frontier-evals",
-            "stars": 1289
+            "stars": 1289,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2302,12 +3438,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(Crafter + NetHack) in JAX.  ICML 2024 Spotlight.",
+            "homepage": null,
             "id": 751798282,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-20T14:38:40Z",
+            "open_issues": 0,
             "owner": "MichaelTMatthews",
             "repo": "Craftax",
-            "stars": 444
+            "stars": 444,
+            "topics": [
+              "benchmark",
+              "environment",
+              "icml-2024",
+              "machine-learning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2318,12 +3465,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 675820833,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-21T07:32:44Z",
+            "open_issues": 3,
             "owner": "yuqingd",
             "repo": "ellm",
-            "stars": 91
+            "stars": 91,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2334,12 +3486,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMAC: The StarCraft Multi-Agent Challenge",
+            "homepage": null,
             "id": 164697388,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-18T19:49:08Z",
+            "open_issues": 22,
             "owner": "oxwhirl",
             "repo": "smac",
-            "stars": 1366
+            "stars": 1366,
+            "topics": [
+              "benchmark",
+              "machine-learning",
+              "multiagent-systems",
+              "reinforcement-learning",
+              "starcraft-ii"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2350,12 +3513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A non-saturating, open-ended environment for evaluating LLMs in Factorio",
+            "homepage": "https://jackhopkins.github.io/factorio-learning-environment/versions/0.3.0.html",
             "id": 378407059,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-11T22:52:19Z",
+            "open_issues": 80,
             "owner": "JackHopkins",
             "repo": "factorio-learning-environment",
-            "stars": 1158
+            "stars": 1158,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -2372,12 +3540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Our library for RL environments + evals",
+            "homepage": null,
             "id": 920603619,
             "language": "Python",
-            "last_commit": "2026-08-28T08:46:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:17:56Z",
+            "open_issues": 189,
             "owner": "PrimeIntellect-ai",
             "repo": "verifiers",
-            "stars": 4567
+            "stars": 4570,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2388,12 +3561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SkyRL: A Modular Full-stack RL Library for LLMs",
+            "homepage": "https://docs.skyrl.ai/docs",
             "id": 970890722,
             "language": "Python",
-            "last_commit": "2026-08-24T20:44:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:48:19Z",
+            "open_issues": 437,
             "owner": "NovaSky-AI",
             "repo": "SkyRL",
-            "stars": 2206
+            "stars": 2206,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2404,12 +3582,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The RL Bridge for LLM-based Agent Applications. Made Simple & Flexible.",
+            "homepage": "https://areal-ai.io",
             "id": 937952934,
             "language": "Python",
-            "last_commit": "2026-08-28T08:10:42Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:16:10Z",
+            "open_issues": 104,
             "owner": "areal-project",
             "repo": "AReaL",
-            "stars": 5700
+            "stars": 5701,
+            "topics": [
+              "agent",
+              "llm",
+              "llm-agent",
+              "llm-reasoning",
+              "machine-learning-systems",
+              "mlsys",
+              "reinforcement-learning",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2420,12 +3612,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framework for LLM-based Multi-Agent Reinforced Training and Inference",
+            "homepage": null,
             "id": 980971217,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T13:25:41Z",
+            "open_issues": 7,
             "owner": "TsinghuaC3I",
             "repo": "MARTI",
-            "stars": 552
+            "stars": 552,
+            "topics": [
+              "autogen",
+              "camel",
+              "deepseek-r1",
+              "gemma",
+              "large-language-models",
+              "large-reasoning-models",
+              "llama",
+              "multi-agent-reinforcement-learning",
+              "multi-agent-systems",
+              "openrlhf",
+              "qwen",
+              "verl"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2436,12 +3646,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL",
+            "homepage": "https://verl.readthedocs.io",
             "id": 936986786,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T21:14:17Z",
+            "open_issues": 56,
             "owner": "hiyouga",
             "repo": "EasyR1",
-            "stars": 5135
+            "stars": 5136,
+            "topics": [
+              "ai",
+              "deepseek",
+              "gpt",
+              "llm",
+              "nlp",
+              "qwen",
+              "reinforcement-learning",
+              "rl"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2452,12 +3676,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalable and extensible reinforcement learning for LM agents.",
+            "homepage": null,
             "id": 1014211327,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T08:39:48Z",
+            "open_issues": 1,
             "owner": "Agent-One-Lab",
             "repo": "AgentFly",
-            "stars": 122
+            "stars": 122,
+            "topics": [
+              "agent",
+              "agent-rl",
+              "agentfly",
+              "agentic",
+              "agentrl",
+              "chat-template",
+              "framework",
+              "llm",
+              "mcp",
+              "multi-modal",
+              "nlp",
+              "reasoning",
+              "reinforcement-learning",
+              "reward",
+              "rl",
+              "system",
+              "tool",
+              "tool-use",
+              "training",
+              "vision-language"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2468,12 +3718,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The absolute trainer to light up AI agents.",
+            "homepage": "https://microsoft.github.io/agent-lightning/",
             "id": 1004147641,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:29:12Z",
+            "open_issues": 154,
             "owner": "microsoft",
             "repo": "agent-lightning",
-            "stars": 17889
+            "stars": 17896,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "llm",
+              "mlops",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2484,12 +3745,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Easy-to-use, Scalable and High-performance Agentic RL Framework based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL)",
+            "homepage": "https://openrlhf.readthedocs.io/",
             "id": 672415139,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T11:26:24Z",
+            "open_issues": 362,
             "owner": "OpenRLHF",
             "repo": "OpenRLHF",
-            "stars": 9957
+            "stars": 9958,
+            "topics": [
+              "large-language-models",
+              "proximal-policy-optimization",
+              "raylib",
+              "reinforcement-learning",
+              "reinforcement-learning-from-human-feedback",
+              "transformers",
+              "visual-language-models",
+              "vllm"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2500,12 +3775,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Train transformer language models with reinforcement learning.",
+            "homepage": "http://hf.co/docs/trl",
             "id": 250510075,
             "language": "Python",
-            "last_commit": "2026-08-28T14:13:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:23:59Z",
+            "open_issues": 291,
             "owner": "huggingface",
             "repo": "trl",
-            "stars": 19168
+            "stars": 19173,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2516,12 +3796,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
+            "homepage": null,
             "id": 545104023,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-01-08T20:07:19Z",
+            "open_issues": 102,
             "owner": "CarperAI",
             "repo": "trlx",
-            "stars": 4755
+            "stars": 4755,
+            "topics": [
+              "machine-learning",
+              "pytorch",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2532,12 +3821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "verl/HybridFlow: A Flexible and Efficient RL Post-Training Framework ",
+            "homepage": "https://verl-project.github.io",
             "id": 881221486,
             "language": "Python",
-            "last_commit": "2026-08-28T07:26:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:39:09Z",
+            "open_issues": 1149,
             "owner": "verl-project",
             "repo": "verl",
-            "stars": 23177
+            "stars": 23183,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2548,12 +3842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "slime is an LLM post-training framework for RL Scaling.",
+            "homepage": "https://thudm.github.io/slime",
             "id": 1004140701,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:18:27Z",
+            "open_issues": 452,
             "owner": "THUDM",
             "repo": "slime",
-            "stars": 8288
+            "stars": 8299,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2564,12 +3863,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.",
+            "homepage": "https://ray.io",
             "id": 71932349,
             "language": "Python",
-            "last_commit": "2026-08-28T05:06:35Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:52:53Z",
+            "open_issues": 3536,
             "owner": "ray-project",
             "repo": "ray",
-            "stars": 43638
+            "stars": 43639,
+            "topics": [
+              "data-science",
+              "deep-learning",
+              "deployment",
+              "distributed",
+              "hyperparameter-optimization",
+              "hyperparameter-search",
+              "large-language-models",
+              "llm",
+              "llm-inference",
+              "llm-serving",
+              "machine-learning",
+              "optimization",
+              "parallel",
+              "python",
+              "pytorch",
+              "ray",
+              "reinforcement-learning",
+              "rllib",
+              "serving",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2580,12 +3905,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library of reinforcement learning components and agents",
+            "homepage": null,
             "id": 260420185,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T11:52:57Z",
+            "open_issues": 100,
             "owner": "google-deepmind",
             "repo": "acme",
-            "stars": 4051
+            "stars": 4051,
+            "topics": [
+              "agents",
+              "reinforcement-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2596,12 +3930,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An elegant PyTorch deep reinforcement learning library.",
+            "homepage": "https://tianshou.org",
             "id": 129815042,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-03T21:34:47Z",
+            "open_issues": 137,
             "owner": "thu-ml",
             "repo": "tianshou",
-            "stars": 10945
+            "stars": 10945,
+            "topics": [
+              "a2c",
+              "atari",
+              "bcq",
+              "cql",
+              "ddpg",
+              "double-dqn",
+              "dqn",
+              "drl",
+              "imitation-learning",
+              "mujoco",
+              "npg",
+              "policy-gradient",
+              "ppo",
+              "pytorch",
+              "rl",
+              "sac",
+              "td3",
+              "transferlab",
+              "trpo"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2612,12 +3971,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
+            "homepage": "https://stable-baselines3.readthedocs.io",
             "id": 261372860,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-17T16:40:34Z",
+            "open_issues": 85,
             "owner": "DLR-RM",
             "repo": "stable-baselines3",
-            "stars": 13733
+            "stars": 13734,
+            "topics": [
+              "baselines",
+              "gsde",
+              "gym",
+              "machine-learning",
+              "openai",
+              "python",
+              "pytorch",
+              "reinforcement-learning",
+              "reinforcement-learning-algorithms",
+              "robotics",
+              "sb3",
+              "sde",
+              "stable-baselines",
+              "toolbox"
+            ]
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         },
@@ -2628,12 +4007,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PFRL: a PyTorch-based deep reinforcement learning library",
+            "homepage": null,
             "id": 274629316,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-02T04:48:45Z",
+            "open_issues": 36,
             "owner": "pfnet",
             "repo": "pfrl",
-            "stars": 1274
+            "stars": 1274,
+            "topics": []
           },
           "first_seen": "2026-08-28T15:34:43.943Z"
         }
@@ -2642,15 +4026,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:34:43.943Z",
+    "last_updated": "2026-08-29T04:28:21.512Z",
     "original_repository_info": {
       "archived": false,
+      "description": null,
+      "homepage": null,
       "id": 1046985950,
       "language": null,
+      "license": null,
       "last_commit": "2026-06-18T07:12:43Z",
+      "open_issues": 7,
       "owner": "HHHHHejia",
       "repo": "Awesome-AgenticLLM-RL-Papers",
-      "stars": 1877
+      "stars": 1877,
+      "topics": []
     },
     "original_repository_sha": "9b577322e9f8314c3c21f15c18f3218eb3e3bd22",
     "enhanced_repository": "enhansome/enhansome-Awesome-AgenticLLM-RL-Papers",
